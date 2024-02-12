@@ -1,4 +1,0 @@
-<template>
-    <MainTop />
-    <ContentDoc />
-</template>
