@@ -1,8 +1,13 @@
+*.log*
+.nuxt
+.nitro
+.cache
 .output
-
-node_modules
-
-
+.data
+.env
+dist
+.fleet
+.DS_Store
 
 # Logs
 logs
