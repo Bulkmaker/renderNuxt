@@ -39,14 +39,29 @@ const {data} = await useAsyncData(() => {
     display: grid
     grid-template-columns: 1fr
     gap: 0
-
+    @screen lg
+        grid-template-columns: 1fr 1fr 1fr
+        gap: 0
 .card
     overflow: hidden
     //background-color: #ffffff
-    box-shadow: 0px 0px 14px 0px rgba(173, 173, 173, 0.75)
-    border-radius: 10px
+    border-radius: 2px
+    border: 1px solid #cccccc
+    @apply transition-all duration-300
+    &:hover
+        @apply shadow-lg
+        transform: translateY(-2px)
     &:nth-child(odd)
         margin: 50px 0
+    @screen lg
+        &:nth-child(even)
+            z-index: 2
+        &:nth-child(1)
+            border-radius: 2px 0 0 2px
+            border-right: 0
+        &:nth-child(3)
+            border-radius: 0 2px 2px 0
+            border-left: 0
     &-link
         text-decoration: none
         padding: 30px
@@ -65,21 +80,5 @@ const {data} = await useAsyncData(() => {
         font-weight: 500
         margin-top: 20px
         text-decoration: underline
-@screen lg
-    .sitegrid
-        grid-template-columns: 1fr 1fr 1fr
-        gap: 0
-    .card
-        &:nth-child(even)
-            z-index: 2
-        &:nth-child(1)
-            border-radius: 10px 0 0 10px
-        &:nth-child(3)
-            border-radius: 0 10px 10px 0
-
-@screen md
-
-
-
 
 </style>

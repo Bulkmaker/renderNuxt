@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const {data} = await useAsyncData(() => {
-    return queryContent('/modules/').where({category: 'module'}).find()
+
+    return queryContent('/uslugi/').where({category: 'usluga'}).find()
 })
 </script>
 <template>
@@ -33,6 +34,7 @@ const {data} = await useAsyncData(() => {
     cursor: pointer
     display: flex
     flex-direction: column
+    aspect-ratio: 16/9
     @apply transition-all duration-300
     &:hover
         @apply shadow-lg
