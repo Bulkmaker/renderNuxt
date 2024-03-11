@@ -39,7 +39,8 @@ export default defineNuxtConfig({
     },
     css: ['@/assets/main.sass'],
     modules: [//'nuxt-content-assets',
-    '@nuxt/content', '@nuxt/image', '@nuxt/ui','@nuxtjs/seo'],
+    '@nuxt/content', '@nuxt/image', //,'@nuxtjs/seo'
+    '@nuxt/ui', 'nuxt-directus'],
     content: {
         documentDriven: true,
         markdown: {
