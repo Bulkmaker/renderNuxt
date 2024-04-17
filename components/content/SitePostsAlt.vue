@@ -8,7 +8,7 @@ const {data} = await useAsyncData(() => {
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mb-5 ">
         <div v-for="post in data" :key="post._id" class="card">
-            <NuxtLink :to="post._path">
+            <NuxtLink :to="post._path"  :aria-label="post.title" :title="post.title">
                 <div class="card-image" :style="{ backgroundImage: `url(${post.thumb})` }">
                         <span v-if="post.cardtitle" class="card-title">
                          {{ post.cardtitle }}

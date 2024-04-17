@@ -34,7 +34,8 @@ const {data} = await useAsyncData(() => {
     cursor: pointer
     display: flex
     flex-direction: column
-    aspect-ratio: 16/9
+    //aspect-ratio: 16/9
+    background: #ffffff
     @apply transition-all duration-300
     &:hover
         @apply shadow-lg

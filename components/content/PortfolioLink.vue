@@ -12,7 +12,9 @@ defineProps({
 </script>
 <template>
     <div >
-        <a :href="link" class="link portfolio-link"> {{ linkTitle ? linkTitle : link }} <UIcon name="i-bi-link-45deg" /></a>
+        <a :href="link" class="link portfolio-link"> {{ linkTitle ? linkTitle : link }}
+            <img src="/svg/link.svg" alt="social__inst" width="20" height="20" >
+        </a>
      </div>
 </template>
 
@@ -24,6 +26,5 @@ defineProps({
     display: inline-flex
     align-items: center
     gap: 5px
-
 
 </style>

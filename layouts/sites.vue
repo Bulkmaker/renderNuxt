@@ -1,5 +1,5 @@
 <script setup>
-const { page } = useContent()
+    const { page } = useContent()
 </script>
 
 <template>
@@ -14,7 +14,9 @@ const { page } = useContent()
             </div>
         </div>
         <slot/>
-        <a :href="page.url" class="link portfolio-link my-20" target="_blank"> {{ page.menutitle ? page.menutitle : page.url }} <UIcon name="i-bi-link-45deg" /></a>
+        <a :href="page.url" class="link portfolio-link my-20" target="_blank"> {{ page.menutitle ? page.menutitle : page.url }}
+            <img src="/svg/link.svg" alt="social__inst" width="20" height="20" >
+        </a>
     </div>
 
 

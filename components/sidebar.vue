@@ -5,11 +5,14 @@
                 <div class="sidebar__menu-line"></div>
             </button>
             <div class="sidebar__icons">
-                <a href="https://api.whatsapp.com/send?phone=79159153220" target="_blank" class="text-white py-2">
-                    <UIcon name="i-fa6-brands-whatsapp"  />
+                <a href="https://api.whatsapp.com/send?phone=79159153220" target="_blank" class="  py-2" aria-label="Whatsapp">
+                    <img src="/svg/whatsapp-svgrepo-com.svg" alt="social__inst" width="30" height="30" >
+
                 </a>
-                <a href="https://t.me/misha_bulic" target="_blank">
-                    <UIcon name="i-fa6-brands-telegram" style="height: 25px" /></a>
+                <a href="https://t.me/misha_bulic" target="_blank" aria-label="Телеграм">
+                    <img src="/svg/telegram-plane-svgrepo-com.svg" alt="social__inst" width="30" height="30" >
+
+                </a>
             </div>
         </div>
     </aside>
@@ -200,10 +203,12 @@ button
 
         &__icons
             display: flex
-            span
-                width: 30px
-                height: 30px
+            a
+                display: flex
+                align-items: center
+                justify-content: center
                 color: white
+
         &__menu-line
             &:before,&:after
                 background: #ffffff

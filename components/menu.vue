@@ -1,13 +1,12 @@
 <template>
   <div class="header-right">
     <nav class="flex gap-4 ">
-        <NuxtLink to="/sites" class="menu__link link">Сайты</NuxtLink>
-        <NuxtLink to="/modules" class="menu__link link">Модули</NuxtLink>
       <NuxtLink to="/uslugi" class="menu__link link">Услуги</NuxtLink>
       <NuxtLink to="https://3d.render-room.ru" target="_blank" class="menu__link link">3D Маркет</NuxtLink>
       <NuxtLink to="/portfolio" class="menu__link link">Портфолио</NuxtLink>
       <NuxtLink to="/contacts" class="menu__link link">Контакты</NuxtLink>
     </nav>
+      <!--
       <UButton icon="i-bi-telephone" @click="isOpen = true" size="xl"/>
 
       <UModal v-model="isOpen" >
@@ -31,6 +30,7 @@
               </div>
           </div>
       </UModal>
+       -->
   </div>
 
 </template>
