@@ -26,7 +26,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/grandgardenstone/image1.jpg" alt="grandgardenstone.ru"}
+:portfolio-image{image="/img/portfolio/grandgardenstone/image1.jpg" alt="grandgardenstone.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -43,4 +43,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/grandgardenstone/image2.jpg" alt="grandgardenstone.ru"}
+:portfolio-image{image="/img/portfolio/grandgardenstone/image2.jpg" alt="grandgardenstone.ru" class="w-full"}

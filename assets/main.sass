@@ -1,4 +1,5 @@
 @import fonts
+@import cards
 @tailwind base
 //@tailwind components
 //@tailwind utilities
@@ -25,42 +26,51 @@
         @apply list-image-[url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNCAxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMzhiZGY4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMy42ODUuMTUzYS43NTIuNzUyIDAgMCAxIC4xNDMgMS4wNTJsLTggMTAuNWEuNzUuNzUgMCAwIDEtMS4xMjcuMDc1bC00LjUtNC41YS43NS43NSAwIDAgMSAxLjA2LTEuMDZsMy44OTQgMy44OTMgNy40OC05LjgxN2EuNzUuNzUgMCAwIDEgMS4wNS0uMTQzWiIgLz48L3N2Zz4=)]
         li
             @apply mb-2 ml-6 pl-1
-body
-    &::-webkit-scrollbar
-        width: 6px
-    &::-webkit-scrollbar-track
-        background: transparent
-
-    &::-webkit-scrollbar-thumb
-        background-color: rgba(104, 169, 103, 0.55)
-
 \:root
     --link-color: red
+    --accent: #81AB24
+    --header-height: 60px
 html
     height: 100%
     width: 100vw
     overflow-x: hidden
     -webkit-text-size-adjust: 100%
 body
-    font-family: 'Inter-RR', sans-serif
+    font-family: 'Inter', 'Segoe UI', 'Helvetica', 'Tahoma', sans-serif
     font-style: normal
     line-height: 1.3
-    font-weight: 400
+    font-weight: 300
     font-size: 17px
     text-rendering: optimizeLegibility
     -webkit-font-smoothing: antialiased
     -moz-osx-font-smoothing: grayscale
     height: 100%
     min-height: 100vh
-    font-stretch: condensed
+    &::-webkit-scrollbar
+        width: 6px
+    &::-webkit-scrollbar-track
+        background: transparent
+    &::-webkit-scrollbar-thumb
+        background-color: rgba(104, 169, 103, 0.55)
+blockquote
+    padding: 20px
+    font-size: 19px
 
-
+    background-color: #edeff4
+    border-left: 5px #81AB24 solid
+    margin-bottom: 20px
+    p
+        margin-bottom: 0
 #__nuxt
     min-height: 100%
     position: relative
 
 .main
-    padding: 100px 20px 0
+    padding: var(--header-height) 15px 0
+    @screen md
+        padding: var(--header-height) 30px 0
+.content-wrapper
+    padding-top: 40px
 .wrapper
     display: flex
 .content
@@ -68,11 +78,7 @@ body
     min-height: 100vh
     display: flex
     flex-direction: column
-
-@screen md
-    .main
-        padding: 100px 30px 0
-    .content
+    @screen md
         margin-left: 70px
 .link
     text-decoration: none
@@ -87,7 +93,13 @@ body
     justify-content: center
     padding: 10px 20px
     border-radius: 3px
-    background: #0ea5e9
-    color: #ffffff
+    background: #f5f5f5
+    color: #464a4e
     text-transform: uppercase
     font-weight: 500
+.sitegrid
+    display: grid
+    grid-template-columns: 1fr
+    gap: 30px
+    @media (screen(lg))
+        grid-template-columns: 1fr 1fr

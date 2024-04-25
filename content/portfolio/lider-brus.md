@@ -38,7 +38,7 @@ title: Задача
 Создать полностью готовый сайт для будущего закачика. 
 ::
 
-:portfolio-image{image="/img/portfolio/lider-brus/image2.jpg" alt="lider-brus.ru"}
+:portfolio-image{image="/img/portfolio/lider-brus/image2.jpg" alt="lider-brus.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -62,7 +62,7 @@ title: Реализация
 
 ::
 
-:portfolio-image{image="/img/portfolio/lider-brus/image1.jpg" alt="lider-brus.ru"}
+:portfolio-image{image="/img/portfolio/lider-brus/image1.jpg" alt="lider-brus.ru" class="w-full"}
 
 ::portfolio-block
 ---

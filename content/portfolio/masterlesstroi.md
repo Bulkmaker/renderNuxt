@@ -26,7 +26,7 @@ title: О компании
 существования зарекомендовала себя только с положительной стороны и стала пользоваться большим спросом у населения.
 ::
 
-:portfolio-image{image="/img/portfolio/masterlesstroi/image1.jpg" alt="masterlesstroi.ru"}
+:portfolio-image{image="/img/portfolio/masterlesstroi/image1.jpg" alt="masterlesstroi.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -46,4 +46,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/masterlesstroi/image2.jpg" alt="masterlesstroi.ru"}
+:portfolio-image{image="/img/portfolio/masterlesstroi/image2.jpg" alt="masterlesstroi.ru" class="w-full"}

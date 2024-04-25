@@ -16,7 +16,7 @@ layout: sites
 favorite: true
 h1: Создание сайта Брусмир
 ---
-:portfolio-image{image="/img/portfolio/brusmir/main.png" alt="brusmir.ru"}
+:portfolio-image{image="/img/portfolio/brusmir/main.png" alt="brusmir.ru" class="w-full"}
 
 
 
@@ -26,7 +26,7 @@ title: О компании
 ---
 Компания «БрусМир» может похвастаться богатым опытом работы в сфере проектирования и комплексного строительства деревянных домов и бань «под ключ». Наша компания – это команда настоящих профессионалов своего дела, которые не только знают все тонкости своей профессии, но и по-настоящему любят то, чем занимаются.
 ::
-:portfolio-image{image="/img/portfolio/brusmir/image2.jpg" alt="brusmir.ru"}
+:portfolio-image{image="/img/portfolio/brusmir/image2.jpg" alt="brusmir.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -48,4 +48,4 @@ title: Выполненные работы
 - Настройка метрики и рекламы
 - Настройка домена и почты
 ::
-:portfolio-image{image="/img/portfolio/brusmir/image1.jpg" alt="brusmir.ru"}
+:portfolio-image{image="/img/portfolio/brusmir/image1.jpg" alt="brusmir.ru" class="w-full"}

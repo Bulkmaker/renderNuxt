@@ -16,7 +16,7 @@ favorite: true
 h1: Поддержка сайта Древцентр
 ---
 
-:portfolio-image{image="/img/portfolio/drevcenter/drevcenter1.jpg" alt="drevcenter.ru"}
+:portfolio-image{image="/img/portfolio/drevcenter/drevcenter1.jpg" alt="drevcenter.ru" class="w-full"}
 
 
 ::portfolio-block
@@ -33,7 +33,7 @@ title: Задача
 Взять сайт на обслуживание, исправить существующие ошибки. Дополнять и расширять функционал сайта.
 ::
 
-:portfolio-image{image="/img/portfolio/drevcenter/drevcenter2.jpg" alt="drevcenter.ru"}
+:portfolio-image{image="/img/portfolio/drevcenter/drevcenter2.jpg" alt="drevcenter.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -48,7 +48,7 @@ title: Реализация
 - Исправлены ошибки в SEO
 
 ::
-:portfolio-image{image="/img/portfolio/drevcenter/drevcenter3.png" alt="drevcenter.ru"}
+:portfolio-image{image="/img/portfolio/drevcenter/drevcenter3.png" alt="drevcenter.ru" class="w-full"}
 
 
  

@@ -17,7 +17,7 @@ h1: Создание сайта Экосруб
 ---
 
 
-:portfolio-image{image="/img/portfolio/ekosryb/main.png" alt="ekosryb.ru"}
+:portfolio-image{image="/img/portfolio/ekosryb/main.png" alt="ekosryb.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -29,7 +29,7 @@ title: О компании
 подписывайте договор, всё остальное сделаем мы! И, буквально через месяц мы рады будем Вас поздравить с новосельем!
 ::
 
-:portfolio-image{image="/img/portfolio/ekosryb/image1.jpg" alt="ekosryb.ru"}
+:portfolio-image{image="/img/portfolio/ekosryb/image1.jpg" alt="ekosryb.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -46,4 +46,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/ekosryb/image2.jpg" alt="ekosryb.ru"}
+:portfolio-image{image="/img/portfolio/ekosryb/image2.jpg" alt="ekosryb.ru" class="w-full"}

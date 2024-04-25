@@ -1,0 +1,46 @@
+.scard
+    display: grid
+    grid-template-columns: 1fr
+    overflow: hidden
+    //background-color: #ffffff
+    border-radius: 2px
+    //border: 1px solid #cccccc
+    @apply transition-all duration-300
+    background: linear-gradient(165.7deg, #ebd0a0 -113.68%, #3c3a38 89.84%)
+    color: #ffffff
+    grid-template-rows: 1fr auto
+    user-select: none
+    font-size: 15px
+    @media (screen(md))
+        font-size: 17px
+    &:hover
+        @apply shadow-lg
+        transform: translateY(-2px)
+    &-priceblock
+        padding: 20px
+        display: grid
+        gap: 20px
+        grid-template-columns: 1fr
+        align-items: center
+        justify-content: center
+        @media (screen(md))
+            grid-template-columns: 1fr auto
+    &-link
+        text-decoration: none
+        padding: 20px
+        height: 100%
+        color: inherit
+        display: flex
+        flex-direction: column
+
+    &-title
+        font-weight: 600
+        font-size: 24px
+        text-decoration: none
+
+    &-price
+        font-size: 28px
+        font-weight: 600
+
+    .button
+        padding: 15px 40px

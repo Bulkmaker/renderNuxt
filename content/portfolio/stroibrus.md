@@ -18,7 +18,7 @@ h1: Обновление сайта Стройбрус
 ---
 
 
-:portfolio-image{image="/img/portfolio/stroibrus/main.png" alt="stroibrus.ru"}
+:portfolio-image{image="/img/portfolio/stroibrus/main.png" alt="stroibrus.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -30,7 +30,7 @@ title: О компании
 работ).
 ::
 
-:portfolio-image{image="/img/portfolio/stroibrus/image1.jpg" alt="stroibrus.ru"}
+:portfolio-image{image="/img/portfolio/stroibrus/image1.jpg" alt="stroibrus.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -55,4 +55,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/stroibrus/image2.jpg" alt="stroibrus.ru"}
+:portfolio-image{image="/img/portfolio/stroibrus/image2.jpg" alt="stroibrus.ru" class="w-full"}

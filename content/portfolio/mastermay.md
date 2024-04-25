@@ -22,7 +22,10 @@ ogImage:
     description: Перенесли сайт на новую платформу. Разработали индивидуальный дизайн и перерисовали все проекты.
 ---
 
-:portfolio-image{image="/img/portfolio/mastermay/mastermay.png" alt="mastermay.ru"}
+:portfolio-image{image="/img/portfolio/mastermay/mastermay.png" alt="mastermay.ru" class="w-full"}
+
+
+
 
 ::portfolio-block
 ---
@@ -40,7 +43,7 @@ title: Задача
 обновить проекты, разработать правильную структуру.
 ::
 
-:portfolio-image{image="/img/portfolio/mastermay/image1.jpg" alt="mastermay.ru"}
+:portfolio-image{image="/img/portfolio/mastermay/image1.jpg" alt="mastermay.ru" class="w-full"}
 
 
 ::portfolio-block
@@ -68,7 +71,7 @@ title: Реализация
 
 ::
 
-:portfolio-image{image="/img/portfolio/mastermay/image2.jpg" alt="mastermay.ru"}
+:portfolio-image{image="/img/portfolio/mastermay/image2.jpg" alt="mastermay.ru" class="w-full"}
 
 ::portfolio-block
 ---

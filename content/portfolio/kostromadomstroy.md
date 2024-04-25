@@ -16,7 +16,7 @@ h1: Обновление сайта Костромадомстрой
 ---
 
 
-:portfolio-image{image="/img/portfolio/kostromadomstroy/main.png" alt="kostromadomstroy.ru"}
+:portfolio-image{image="/img/portfolio/kostromadomstroy/main.png" alt="kostromadomstroy.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -29,7 +29,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/kostromadomstroy/image1.jpg" alt="kostromadomstroy.ru"}
+:portfolio-image{image="/img/portfolio/kostromadomstroy/image1.jpg" alt="kostromadomstroy.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -47,4 +47,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/kostromadomstroy/image2.jpg" alt="kostromadomstroy.ru"}
+:portfolio-image{image="/img/portfolio/kostromadomstroy/image2.jpg" alt="kostromadomstroy.ru" class="w-full"}

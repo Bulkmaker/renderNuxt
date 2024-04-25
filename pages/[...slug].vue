@@ -1,12 +1,10 @@
 <template>
-  <main>
-
-    <ContentDoc />
-  </main>
+    <ContentDoc class="content-wrapper" />
 </template>
 
 <script lang="ts" setup>
 defineOgImageComponent('OgRender', {
 
 })
+
 </script>

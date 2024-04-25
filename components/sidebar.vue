@@ -22,21 +22,22 @@
             <NuxtLink to="/sites" class="big-menu__biglink" @click="toggleActive">Строительные сайты</NuxtLink>
             <br>
             <NuxtLink to="/modules" class="big-menu__smalllink" @click="toggleActive">Модули</NuxtLink>
-            <NuxtLink to="/" class="big-menu__smalllink" @click="toggleActive">Готовые сайты</NuxtLink>
+            <NuxtLink to="/uslugi/support" class="big-menu__smalllink" @click="toggleActive">Поддержка</NuxtLink>
+            <NuxtLink to="/uslugi/gotovyie-sajtyi" class="big-menu__smalllink" @click="toggleActive">Готовые сайты</NuxtLink>
             <NuxtLink to="/uslugi" class="big-menu__smalllink" @click="toggleActive">Услуги</NuxtLink>
             <br>
             <NuxtLink to="/portfolio" class="big-menu__biglink" @click="toggleActive">Наши работы</NuxtLink>
             <br>
-            <NuxtLink to="/" class="big-menu__biglink" @click="toggleActive">3D Маркет</NuxtLink>
+            <NuxtLink to="https://3d.render-room.ru" class="big-menu__biglink" target="_blank" @click="toggleActive">3D Маркет</NuxtLink>
             <br>
             <NuxtLink to="/" class="big-menu__smalllink" @click="toggleActive">Готовые проекты</NuxtLink>
             <NuxtLink to="/" class="big-menu__smalllink" @click="toggleActive">Визуализация</NuxtLink>
             <NuxtLink to="/" class="big-menu__smalllink" @click="toggleActive">Проект на заказ</NuxtLink>
             <br>
+            <NuxtLink to="/blog" class="big-menu__biglink" @click="toggleActive">Блог</NuxtLink>
+            <br>
             <NuxtLink to="/contacts" class="big-menu__biglink" @click="toggleActive">Контакты</NuxtLink>
         </div>
-
-
     </div>
 </template>
 
@@ -52,7 +53,8 @@
     display: flex
     align-items: center
     justify-content: center
-    border-right: 1px solid rgba(211, 211, 211, 0.46)
+    //border-right: 1px solid rgba(211, 211, 211, 0.46)
+    @screen md
 
     &__icons
         display: flex
@@ -131,7 +133,7 @@ button
     z-index: 15
     transition: opacity .7s step-end, transform .7s cubic-bezier(.8, 0, .55, .94), visibility .7s step-end, background-color .7s cubic-bezier(.8, 0, .55, .94)
     transition-delay: .3s
-    background-image: url("/img/fon_tree1.png")
+    background-image: url("/img/tree_fon.png")
     background-size: contain
     background-repeat: no-repeat
     background-position: bottom right
@@ -176,7 +178,8 @@ button
         display: block
         margin-bottom: 1px
         font-size: 18px
-
+        &:hover
+            text-decoration: underline
     &.active
         opacity: 1
         visibility: visible

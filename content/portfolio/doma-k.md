@@ -25,7 +25,7 @@ title: О компании
 коммерческих объектов, таких как мини-гостиницы, магазины и другие.
 ::
 
-:portfolio-image{image="/img/portfolio/doma-k/image1.jpg" alt="doma-k.ru"}
+:portfolio-image{image="/img/portfolio/doma-k/image1.jpg" alt="doma-k.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -44,4 +44,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/doma-k/image2.jpg" alt="doma-k.ru"}
+:portfolio-image{image="/img/portfolio/doma-k/image2.jpg" alt="doma-k.ru" class="w-full"}

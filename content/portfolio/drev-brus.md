@@ -17,7 +17,7 @@ h1: Создание сайта Древбрус
 ---
 
 
-:portfolio-image{image="/img/portfolio/drev-brus/main.png" alt="drev-brus.ru"}
+:portfolio-image{image="/img/portfolio/drev-brus/main.png" alt="drev-brus.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -28,7 +28,7 @@ Cтроительная компания Древ брус предлагает 
 
 ::
 
-:portfolio-image{image="/img/portfolio/drev-brus/image1.jpg" alt="drev-brus.ru"}
+:portfolio-image{image="/img/portfolio/drev-brus/image1.jpg" alt="drev-brus.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -44,4 +44,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/drev-brus/image2.jpg" alt="drev-brus.ru"}
+:portfolio-image{image="/img/portfolio/drev-brus/image2.jpg" alt="drev-brus.ru" class="w-full"}

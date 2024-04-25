@@ -1,7 +1,7 @@
 <template>
-    <header>
-        <div class="px-5   flex justify-between w-full align-middle">
-            <NuxtLink to="/" class="logo"><img src="/logo.png" alt="render-room.ru" width="250"></NuxtLink>
+    <header class="header">
+        <div class="header__inner">
+            <NuxtLink to="/" class="logo"><img src="/logo.png" alt="render-room.ru"></NuxtLink>
             <Menu/>
 
         </div>
@@ -10,22 +10,34 @@
 
 
 <style lang="sass" scoped>
-header
+.header
     position: fixed
     top: 0
     right: 0
     left: 0
-    height: 70px
+    height: 60px
     display: flex
     align-items: center
     background: #FFFFFF
     border-bottom: 1px solid rgba(211, 211, 211, 0.46)
     z-index: 10
+    padding: 0 20px 0 70px
+    @screen md
+        padding-left: 100px
+    &__inner
+        display: flex
+        width: 100%
+        justify-content: space-between
+        align-items: center
+
     .logo
-        padding-left: 70px
         display: flex
         align-items: center
+        img
+            max-width: 100%
+            width: 220px
 </style>
+
 <script setup lang="ts">
 
 </script>

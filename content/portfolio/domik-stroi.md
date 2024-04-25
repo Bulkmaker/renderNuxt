@@ -26,7 +26,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/domik-stroi/image1.jpg" alt="domik-stroi.ru"}
+:portfolio-image{image="/img/portfolio/domik-stroi/image1.jpg" alt="domik-stroi.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -44,4 +44,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/domik-stroi/image2.jpg" alt="domik-stroi.ru"}
+:portfolio-image{image="/img/portfolio/domik-stroi/image2.jpg" alt="domik-stroi.ru" class="w-full"}

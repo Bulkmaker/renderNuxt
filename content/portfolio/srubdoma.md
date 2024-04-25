@@ -28,7 +28,7 @@ title: О компании
 проведут расчеты стоимости.
 ::
 
-:portfolio-image{image="/img/portfolio/srubdoma/image1.jpg" alt="srubdoma.ru"}
+:portfolio-image{image="/img/portfolio/srubdoma/image1.jpg" alt="srubdoma.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -47,4 +47,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/srubdoma/image2.jpg" alt="srubdoma.ru"}
+:portfolio-image{image="/img/portfolio/srubdoma/image2.jpg" alt="srubdoma.ru" class="w-full"}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: http://render.test
+Sitemap: http://render.test/sitemap.xml

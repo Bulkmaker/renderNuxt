@@ -18,7 +18,7 @@ h1: Создание и обновление сайта Костромаплот
 ---
 
 
-:portfolio-image{image="/img/portfolio/kostromaplotnik/main.png" alt="kostromaplotnik.ru"}
+:portfolio-image{image="/img/portfolio/kostromaplotnik/main.png" alt="kostromaplotnik.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -28,7 +28,7 @@ title: О компании
 Именно здесь происходит вырубка и переработка леса, из которого и будет построен Ваш дом.
 ::
 
-:portfolio-image{image="/img/portfolio/kostromaplotnik/image1.jpg" alt="kostromaplotnik.ru"}
+:portfolio-image{image="/img/portfolio/kostromaplotnik/image1.jpg" alt="kostromaplotnik.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -52,4 +52,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/kostromaplotnik/image2.jpg" alt="kostromaplotnik.ru"}
+:portfolio-image{image="/img/portfolio/kostromaplotnik/image2.jpg" alt="kostromaplotnik.ru" class="w-full"}

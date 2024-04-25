@@ -28,7 +28,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/sk-lesnik/image1.jpg" alt="sk-lesnik.ru"}
+:portfolio-image{image="/img/portfolio/sk-lesnik/image1.jpg" alt="sk-lesnik.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -48,4 +48,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/sk-lesnik/image2.jpg" alt="sk-lesnik.ru"}
+:portfolio-image{image="/img/portfolio/sk-lesnik/image2.jpg" alt="sk-lesnik.ru" class="w-full"}

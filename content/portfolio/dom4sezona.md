@@ -17,7 +17,7 @@ h1: Создание сайта Дом 4 сезона
 ---
 
 
-:portfolio-image{image="/img/portfolio/dom4sezona/main.png" alt="dom4sezona.ru"}
+:portfolio-image{image="/img/portfolio/dom4sezona/main.png" alt="dom4sezona.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -32,7 +32,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/dom4sezona/image1.jpg" alt="dom4sezona.ru"}
+:portfolio-image{image="/img/portfolio/dom4sezona/image1.jpg" alt="dom4sezona.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -51,4 +51,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/dom4sezona/image2.jpg" alt="dom4sezona.ru"}
+:portfolio-image{image="/img/portfolio/dom4sezona/image2.jpg" alt="dom4sezona.ru" class="w-full"}

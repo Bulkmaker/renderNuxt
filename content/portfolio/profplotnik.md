@@ -17,7 +17,7 @@ favorite: true
 h1: Перенос и поддержка сайта Профплотник
 ---
 
-:portfolio-image{image="/img/portfolio/profplotnik/image1.jpg" alt="profplotnik.ru"}
+:portfolio-image{image="/img/portfolio/profplotnik/image1.jpg" alt="profplotnik.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -35,7 +35,7 @@ title: Задача
 функционалом, обновить портфолио проектов, создать эффективную структуру и разработать современный дизайн.
 ::
 
-:portfolio-image{image="/img/portfolio/profplotnik/image2.jpg" alt="profplotnik.ru"}
+:portfolio-image{image="/img/portfolio/profplotnik/image2.jpg" alt="profplotnik.ru" class="w-full"}
 
 
 ::portfolio-block
@@ -60,7 +60,7 @@ title: Реализация
 
 ::
 
-:portfolio-image{image="/img/portfolio/profplotnik/image3.png" alt="profplotnik.ru"}
+:portfolio-image{image="/img/portfolio/profplotnik/image3.png" alt="profplotnik.ru" class="w-full"}
 
 ::portfolio-block
 ---

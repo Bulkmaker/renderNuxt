@@ -17,7 +17,7 @@ favorite: true
 h1: Обновление сайта Севтерема
 ---
 
-:portfolio-image{image="/img/portfolio/sevterema/main.png" alt="sevterema.ru"}
+:portfolio-image{image="/img/portfolio/sevterema/main.png" alt="sevterema.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -25,7 +25,7 @@ title: О компании
 ---
 Компания «ДревСевер» предлагает приобрести дома и другие постройки из бруса и профилированного бруса. Мы гордимся своими достижениями, ведь наша компания сумела усовершенствовать старые традиции и сделать их востребованными среди современных требований к технологиям строительства.
 ::
-:portfolio-image{image="/img/portfolio/sevterema/image2.jpg" alt="sevterema.ru"}
+:portfolio-image{image="/img/portfolio/sevterema/image2.jpg" alt="sevterema.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -47,4 +47,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/sevterema/image1.jpg" alt="sevterema.ru"}
+:portfolio-image{image="/img/portfolio/sevterema/image1.jpg" alt="sevterema.ru" class="w-full"}

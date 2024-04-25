@@ -16,7 +16,7 @@ layout: sites
 favorite: true
 h1: Создание сайта Моя Усадьба
 ---
-:portfolio-image{image="/img/portfolio/moiausadba/image1.jpg" alt="moiausadba.ru"}
+:portfolio-image{image="/img/portfolio/moiausadba/image1.jpg" alt="moiausadba.ru" class="w-full"}
 
 
 ::portfolio-block
@@ -25,7 +25,7 @@ title: О компании
 ---
 «Моя усадьба» с 2001 года занимается строительством деревянных домов. Сначала были старинные традиционные методы – ручная рубка и лафет. Эти технологии позволили понять характер такого непростого материала, как древесина. Специалисты компании изучали традиционные методы строительства деревянных домов, сочетая зарубежный и отечественный опыт плотников.
 ::
-:portfolio-image{image="/img/portfolio/moiausadba/image2.jpg" alt="moiausadba.ru"}
+:portfolio-image{image="/img/portfolio/moiausadba/image2.jpg" alt="moiausadba.ru" class="w-full"}
 ::portfolio-block
 ---
 title: Выполненные работы
@@ -43,4 +43,4 @@ title: Выполненные работы
 - Настройка метрики и рекламы
 ::
 
-:portfolio-image{image="/img/portfolio/moiausadba/image3.png" alt="moiausadba.ru"}
+:portfolio-image{image="/img/portfolio/moiausadba/image3.png" alt="moiausadba.ru" class="w-full"}

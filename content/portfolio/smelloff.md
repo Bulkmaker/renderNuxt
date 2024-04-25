@@ -15,7 +15,7 @@ h1: Создание сайта для компании Smelloff
 ---
 
 
-:portfolio-image{image="/img/portfolio/smelloff/main.png" alt="smelloff.ru"}
+:portfolio-image{image="/img/portfolio/smelloff/main.png" alt="smelloff.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -27,7 +27,7 @@ SmellOFF – это профессиональное средство, унич�
 
 ::
 
-:portfolio-image{image="/img/portfolio/smelloff/image1.jpg" alt="smelloff.ru"}
+:portfolio-image{image="/img/portfolio/smelloff/image1.jpg" alt="smelloff.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -40,4 +40,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/smelloff/image2.jpg" alt="smelloff.ru"}
+:portfolio-image{image="/img/portfolio/smelloff/image2.jpg" alt="smelloff.ru" class="w-full"}

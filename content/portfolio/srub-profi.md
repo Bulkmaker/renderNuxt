@@ -18,7 +18,7 @@ h1: Обновление сайта Сруб профи
 ---
 
 
-:portfolio-image{image="/img/portfolio/srub-profi/main.png" alt="srub-profi.ru"}
+:portfolio-image{image="/img/portfolio/srub-profi/main.png" alt="srub-profi.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -28,7 +28,7 @@ title: О компании
 Именно здесь происходит вырубка и переработка леса, из которого и будет построен Ваш дом.
 ::
 
-:portfolio-image{image="/img/portfolio/srub-profi/image1.jpg" alt="srub-profi.ru"}
+:portfolio-image{image="/img/portfolio/srub-profi/image1.jpg" alt="srub-profi.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -47,4 +47,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/srub-profi/image2.jpg" alt="srub-profi.ru"}
+:portfolio-image{image="/img/portfolio/srub-profi/image2.jpg" alt="srub-profi.ru" class="w-full"}

@@ -14,12 +14,32 @@ export default defineNuxtConfig({
             link: [{rel: 'icon', type: 'image/x-icon', href: '/favicon.svg'}]
         }
     },
+    sitemap: {
+        strictNuxtContentPaths: true
+    },
+    //nuxtLink: {
+    //    // default values
+    //    trailingSlash: 'remove' // can be 'append' or 'remove'
+    //},
+    seo: {
+        redirectToCanonicalSiteUrl: true
+    },
     site: {
-        url: 'http://render-room.ru',
+        url: 'https://render-room.ru/',
         name: 'Render room',
         description: 'Создание строительных сайтов, готовые проекты домов из бруса и 3d визуалзиация на заказ.',
         defaultLocale: 'ru', // not needed if you have @nuxtjs/i18n installed
+        trailingSlash: false,
     },
+    robots: {
+        // provide simple disallow rules for all robots `user-agent: *` groups: [
+        // block specific robots from specific pages
+        groups: [{
+            userAgent: ['Yandex'],
+            allow: ['/'],
+        }]
+    },
+
     image: {
         presets: {
             cover: {
@@ -37,16 +57,23 @@ export default defineNuxtConfig({
         '@nuxt/content',
         '@nuxt/image',
         '@nuxtjs/seo',
-        '@nuxtjs/tailwindcss'
+        '@nuxtjs/tailwindcss',
+        'nuxt-swiper',
+        '@artmizu/yandex-metrika-nuxt'
     ],
-
+    yandexMetrika: {
+      id: '30114309',
+    },
     content: {
-        documentDriven: true,
+        documentDriven:{
+            navigation: true,
+            page: true,
+            surround: true,
+            trailingSlash: false,
+        },
 
         markdown: {
             anchorLinks: false,
         }
     },
-
-
 })

@@ -56,7 +56,6 @@ const {data} = await useAsyncData(() => {
 
 .card-image
     aspect-ratio: 1/1
-    height: 400px
     width: 100%
     display: flex
     align-items: center
@@ -66,6 +65,7 @@ const {data} = await useAsyncData(() => {
     background-position: center center
     transition: background-size 400ms linear
     background-size: 100%
+    background-repeat: no-repeat
     &:hover
         background-size: 105%
 

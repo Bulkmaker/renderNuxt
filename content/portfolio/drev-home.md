@@ -17,7 +17,7 @@ h1: Перенос сайта для компании Древхом
 ---
 
 
-:portfolio-image{image="/img/portfolio/drev-home/main.png" alt="drev-home.ru"}
+:portfolio-image{image="/img/portfolio/drev-home/main.png" alt="drev-home.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -29,7 +29,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/drev-home/image1.jpg" alt="drev-home.ru"}
+:portfolio-image{image="/img/portfolio/drev-home/image1.jpg" alt="drev-home.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -49,4 +49,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/drev-home/image2.jpg" alt="drev-home.ru"}
+:portfolio-image{image="/img/portfolio/drev-home/image2.jpg" alt="drev-home.ru" class="w-full"}

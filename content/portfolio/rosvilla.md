@@ -17,7 +17,7 @@ layout: sites
 favorite: true
 h1: Создание сайта Росвилла
 ---
-:portfolio-image{image="/img/portfolio/rosvilla/image1.jpg" alt="rosvilla.ru"}
+:portfolio-image{image="/img/portfolio/rosvilla/image1.jpg" alt="rosvilla.ru" class="w-full"}
 
 
 ::portfolio-block
@@ -27,7 +27,7 @@ title: О компании
 Компания специализируется на строительстве деревянных домов с 2008 года. Предлагаются дома как для сезонного, так и для круглогодичного проживания, а также возможность строительства объектов коммерческого назначения, таких как мини-гостиницы, магазины и другие.
 ::
 
-:portfolio-image{image="/img/portfolio/rosvilla/image2.jpg" alt="rosvilla.ru"}
+:portfolio-image{image="/img/portfolio/rosvilla/image2.jpg" alt="rosvilla.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -49,4 +49,4 @@ title: Выполненные работы
 - Поддержка сайта
 ::
 
-:portfolio-image{image="/img/portfolio/rosvilla/image3.png" alt="rosvilla.ru"}
+:portfolio-image{image="/img/portfolio/rosvilla/image3.png" alt="rosvilla.ru" class="w-full"}

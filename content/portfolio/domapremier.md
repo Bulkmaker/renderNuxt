@@ -15,7 +15,7 @@ url: https://домапремьер.рф/
 layout: sites
 h1: Перенос сайта для компании Дома Премьер
 ---
-:portfolio-image{image="/img/portfolio/domapremier/main.png" alt="domapremier.ru"}
+:portfolio-image{image="/img/portfolio/domapremier/main.png" alt="domapremier.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -26,7 +26,7 @@ title: О компании
 Костромской области и в нем нет никаких вредных производств.
 ::
 
-:portfolio-image{image="/img/portfolio/domapremier/image1.jpg" alt="domapremier.ru"}
+:portfolio-image{image="/img/portfolio/domapremier/image1.jpg" alt="domapremier.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -39,4 +39,4 @@ title: Выполненные работы
 - Яндекс Метрика и реклама
 ::
 
-:portfolio-image{image="/img/portfolio/domapremier/image2.jpg" alt="domapremier.ru"}
+:portfolio-image{image="/img/portfolio/domapremier/image2.jpg" alt="domapremier.ru" class="w-full"}

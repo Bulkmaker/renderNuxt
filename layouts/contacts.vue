@@ -5,8 +5,9 @@ const {page} = useContent()
 </script>
 
 <template>
-    <div class="contacts">
+    <div class="contacts  content-wrapper">
         <h1>{{ page.h1 }}</h1>
+        <slot/>
         <div class=" ">
             <div class="flex items-center align-center text-center w-full flex-row my-5"
                  color="gray">

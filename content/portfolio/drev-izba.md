@@ -17,7 +17,7 @@ h1: Перенос и обслуживание Древизба
 ---
 
 
-:portfolio-image{image="/img/portfolio/drev-izba/main.png" alt="drev-izba.ru"}
+:portfolio-image{image="/img/portfolio/drev-izba/main.png" alt="drev-izba.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -25,7 +25,7 @@ title: О компании
 ---
 Компания Древизба предлагает услуги по строительству деревянных домов и бань из обычного и профилированного бруса под ключ от фундамента до кровли.
 ::
-:portfolio-image{image="/img/portfolio/drev-izba/image2.jpg" alt="drev-izba.ru"}
+:portfolio-image{image="/img/portfolio/drev-izba/image2.jpg" alt="drev-izba.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -47,4 +47,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/drev-izba/image1.jpg" alt="drev-izba.ru"}
+:portfolio-image{image="/img/portfolio/drev-izba/image1.jpg" alt="drev-izba.ru" class="w-full"}

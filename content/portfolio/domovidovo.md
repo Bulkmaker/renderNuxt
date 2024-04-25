@@ -17,7 +17,7 @@ h1: Создание сайта Домовидово
 ---
 
 
-:portfolio-image{image="/img/portfolio/domovidovo/main.png" alt="domovidovo.ru"}
+:portfolio-image{image="/img/portfolio/domovidovo/main.png" alt="domovidovo.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -29,7 +29,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/domovidovo/image1.jpg" alt="domovidovo.ru"}
+:portfolio-image{image="/img/portfolio/domovidovo/image1.jpg" alt="domovidovo.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -47,4 +47,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/domovidovo/image2.jpg" alt="domovidovo.ru"}
+:portfolio-image{image="/img/portfolio/domovidovo/image2.jpg" alt="domovidovo.ru" class="w-full"}

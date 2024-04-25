@@ -5,7 +5,12 @@ category: module
 cardtitle: Лента Youtube
 cardtext: Модуль Youtube сканирует видео с аккаунта Youtube. При появлении нового видео на Youtube канале, это видео автоматически появляется на сайте. Можно выводить отдельные плейлисты
 cardprice: 10 000 рублей
+layout: modules 
 ---
 # Лента Youtube
 
 Модуль Youtube сканирует видео с аккаунта Youtube. При появлении нового видео на Youtube канале, это видео автоматически появляется на сайте. Можно выводить отдельные плейлисты
+
+:portfolio-image{image="/img/lenta.png" alt="Лента Youtube" class="w-full"}
+
+## Стоимость: {{ $doc.cardprice }}

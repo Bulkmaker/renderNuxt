@@ -4,7 +4,7 @@
 
 <template>
 
-    <div class="site-portfolio">
+    <div class="site-portfolio content-wrapper">
         <NuxtLink to="/portfolio" class="my-4 block no-underline"> <span >← ко всем проектам</span></NuxtLink>
         <h1>{{ page.h1 ? page.h1 : page.cardtitle }}</h1>
 

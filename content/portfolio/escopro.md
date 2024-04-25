@@ -26,7 +26,7 @@ title: О компании
 устанавливается в оконный проем.
 ::
 
-:portfolio-image{image="/img/portfolio/escopro/image1.jpg" alt="escopro.ru"}
+:portfolio-image{image="/img/portfolio/escopro/image1.jpg" alt="escopro.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -42,4 +42,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/escopro/image2.jpg" alt="escopro.ru"}
+:portfolio-image{image="/img/portfolio/escopro/image2.jpg" alt="escopro.ru" class="w-full"}

@@ -16,7 +16,7 @@ h1: Перенос сайта Костромской терем
 ---
 
 
-:portfolio-image{image="/img/portfolio/kostromskoyterem/main.png" alt="kostromskoyterem.ru"}
+:portfolio-image{image="/img/portfolio/kostromskoyterem/main.png" alt="kostromskoyterem.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -29,7 +29,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/kostromskoyterem/image1.jpg" alt="kostromskoyterem.ru"}
+:portfolio-image{image="/img/portfolio/kostromskoyterem/image1.jpg" alt="kostromskoyterem.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -42,4 +42,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/kostromskoyterem/image2.jpg" alt="kostromskoyterem.ru"}
+:portfolio-image{image="/img/portfolio/kostromskoyterem/image2.jpg" alt="kostromskoyterem.ru" class="w-full"}

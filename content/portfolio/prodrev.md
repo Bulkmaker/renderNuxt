@@ -17,7 +17,7 @@ h1: Создание сайта prodrev.ru
 ---
 
 
-:portfolio-image{image="/img/portfolio/prodrev/main.png" alt="prodrev.ru"}
+:portfolio-image{image="/img/portfolio/prodrev/main.png" alt="prodrev.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -30,7 +30,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/prodrev/image1.jpg" alt="prodrev.ru"}
+:portfolio-image{image="/img/portfolio/prodrev/image1.jpg" alt="prodrev.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -51,4 +51,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/prodrev/image2.jpg" alt="prodrev.ru"}
+:portfolio-image{image="/img/portfolio/prodrev/image2.jpg" alt="prodrev.ru" class="w-full"}

@@ -15,7 +15,7 @@ h1: Создание и сайта ДревАртель
 ---
 
 
-:portfolio-image{image="/img/portfolio/drevartel/main.png" alt="drevartel.ru"}
+:portfolio-image{image="/img/portfolio/drevartel/main.png" alt="drevartel.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -26,7 +26,7 @@ title: О компании
 профилированный), бревно. Для изготовления строительного материала используются деревья хвойных пород (ель, сосна).
 ::
 
-:portfolio-image{image="/img/portfolio/drevartel/image1.jpg" alt="drevartel.ru"}
+:portfolio-image{image="/img/portfolio/drevartel/image1.jpg" alt="drevartel.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -44,4 +44,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/drevartel/image2.jpg" alt="drevartel.ru"}
+:portfolio-image{image="/img/portfolio/drevartel/image2.jpg" alt="drevartel.ru" class="w-full"}

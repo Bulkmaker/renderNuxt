@@ -40,7 +40,7 @@ title: Задача
 
 ::
 
-:portfolio-image{image="/img/portfolio/44srub/image1.jpg" alt="44srub.ru"}
+:portfolio-image{image="/img/portfolio/44srub/image1.jpg" alt="44srub.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -66,7 +66,7 @@ title: Реализация
 
 ::
 
-:portfolio-image{image="/img/portfolio/44srub/image2.jpg" alt="44srub.ru"}
+:portfolio-image{image="/img/portfolio/44srub/image2.jpg" alt="44srub.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -81,4 +81,4 @@ title: Результат
 
 ::
 
-:portfolio-image{image="/img/portfolio/44srub/44srub.ru-big.png" alt="44srub.ru"}
+:portfolio-image{image="/img/portfolio/44srub/44srub.ru-big.png" alt="44srub.ru" class="w-full"}

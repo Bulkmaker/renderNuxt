@@ -17,7 +17,7 @@ h1: Создание сайта Брусовой
 ---
 
 
-:portfolio-image{image="/img/portfolio/brusovoi/main.png" alt="brusovoi.ru"}
+:portfolio-image{image="/img/portfolio/brusovoi/main.png" alt="brusovoi.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -28,7 +28,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/brusovoi/image1.jpg" alt="brusovoi.ru"}
+:portfolio-image{image="/img/portfolio/brusovoi/image1.jpg" alt="brusovoi.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -50,4 +50,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/brusovoi/image2.jpg" alt="brusovoi.ru"}
+:portfolio-image{image="/img/portfolio/brusovoi/image2.jpg" alt="brusovoi.ru" class="w-full"}

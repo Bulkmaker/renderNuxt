@@ -16,7 +16,7 @@ h1: Обновление сайта Галич дом
 ---
 
 
-:portfolio-image{image="/img/portfolio/galich-dom/main.png" alt="galich-dom.ru"}
+:portfolio-image{image="/img/portfolio/galich-dom/main.png" alt="galich-dom.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -25,7 +25,7 @@ title: О компании
 Компания "Галич-Дом" построить для вас деревянный дом любой сложности в сжатые сроки!
 ::
 
-:portfolio-image{image="/img/portfolio/galich-dom/image1.jpg" alt="galich-dom.ru"}
+:portfolio-image{image="/img/portfolio/galich-dom/image1.jpg" alt="galich-dom.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -41,4 +41,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/galich-dom/image2.jpg" alt="galich-dom.ru"}
+:portfolio-image{image="/img/portfolio/galich-dom/image2.jpg" alt="galich-dom.ru" class="w-full"}

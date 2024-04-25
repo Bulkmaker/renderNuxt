@@ -16,7 +16,7 @@ layout: sites
 h1: Перенос сайта Деревянный дом
 ---
 
-:portfolio-image{image="/img/portfolio/brusidoska/main.png" alt="brusidoska.ru"}
+:portfolio-image{image="/img/portfolio/brusidoska/main.png" alt="brusidoska.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -27,7 +27,7 @@ title: О компании
 полной готовности – «заезжай и живи».
 ::
 
-:portfolio-image{image="/img/portfolio/brusidoska/image1.jpg" alt="brusidoska.ru"}
+:portfolio-image{image="/img/portfolio/brusidoska/image1.jpg" alt="brusidoska.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -50,4 +50,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/brusidoska/image2.jpg" alt="brusidoska.ru"}
+:portfolio-image{image="/img/portfolio/brusidoska/image2.jpg" alt="brusidoska.ru" class="w-full"}

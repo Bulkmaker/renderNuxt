@@ -17,7 +17,7 @@ favorite: true
 h1: Перенос и поддержка сайта Судай сруб
 ---
 
-:portfolio-image{image="/img/portfolio/sudai-srub/image1.jpg" alt="sudai-srub.ru"}
+:portfolio-image{image="/img/portfolio/sudai-srub/image1.jpg" alt="sudai-srub.ru" class="w-full"}
 
 
 ::portfolio-block
@@ -26,7 +26,7 @@ title: О компании
 ---
 Основной профиль компании - строительство надежных, теплых  домов и бань из профилированного и обрезного (обычного) бруса естественной влажности и камерной сушки "под усадку" и "под ключ" по типовым и индивидуальным проектам.
 ::
-:portfolio-image{image="/img/portfolio/sudai-srub/image2.jpg" alt="sudai-srub.ru"}
+:portfolio-image{image="/img/portfolio/sudai-srub/image2.jpg" alt="sudai-srub.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -46,4 +46,4 @@ title: Выполненные работы
 - Поддержка сайта
 ::
 
-:portfolio-image{image="/img/portfolio/sudai-srub/image3.png" alt="sudai-srub.ru"}
+:portfolio-image{image="/img/portfolio/sudai-srub/image3.png" alt="sudai-srub.ru" class="w-full"}

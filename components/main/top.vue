@@ -1,9 +1,14 @@
 <template>
   <div class="maintop">
       <div class="maintop__wrapper">
-          <h1>
-              Render room
-          </h1>
+          <div class="text">
+              <NuxtImg src="/img/mainRR.svg" alt="Render room"
+
+
+
+              />
+          </div>
+
           <p class="subtitle">Разработка сайтов для строительных компаний </p>
       </div>
 
@@ -13,26 +18,31 @@
 main
     padding: 0
 .maintop
-    height: 100vh
+    height: 90vh
     display: flex
     flex-direction: column
     justify-content: center
-h1
+    background-image: url("../svg/hexagon.svg")
+    background-position: right center
+
+    background-repeat: no-repeat
+.text
     display: grid
-    grid-template-columns: auto 1fr
-    font-size: clamp(2em,calc(9 / 80 * 100vw),5em)
+    grid-template-columns: minmax(200px, 500px) 1fr
     line-height: 1
-    font-weight: 600
-    text-transform: uppercase
     flex-grow: 1
     white-space: nowrap
-h1::after
-    border-bottom: 10px solid #81AB24
+    img
+        width: 100%
+        padding-right: 10px
+.text::after
+    border-bottom: 3px solid #81AB2469
     display: flex
     flex-basis: 100%
     content: ''
 .subtitle
-    font-size: clamp(20px,calc(9 / 150 * 100vw),50px)
+    margin-top: 10px
+    font-size: clamp(20px,calc(9 / 150 * 100vw),30px)
 
     line-height: 1.3
 </style>

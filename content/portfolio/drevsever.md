@@ -16,7 +16,7 @@ favorite: true
 h1: Обновление сайта Древсевер
 ---
 
-:portfolio-image{image="/img/portfolio/drevsever/image1.jpg" alt="drevsever.ru"}
+:portfolio-image{image="/img/portfolio/drevsever/image1.jpg" alt="drevsever.ru" class="w-full"}
 
 
 ::portfolio-block
@@ -25,7 +25,7 @@ title: О компании
 ---
 Компания «ДревСевер» предлагает приобрести дома и другие постройки из бруса и профилированного бруса. Мы гордимся своими достижениями, ведь наша компания сумела усовершенствовать старые традиции и сделать их востребованными среди современных требований к технологиям строительства.
 ::
-:portfolio-image{image="/img/portfolio/drevsever/image2.jpg" alt="drevsever.ru"}
+:portfolio-image{image="/img/portfolio/drevsever/image2.jpg" alt="drevsever.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -53,5 +53,5 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/drevsever/main.png" alt="drevsever.ru"}
+:portfolio-image{image="/img/portfolio/drevsever/main.png" alt="drevsever.ru" class="w-full"}
  

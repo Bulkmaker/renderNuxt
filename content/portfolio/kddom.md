@@ -16,7 +16,7 @@ h1: Обновление сайта kddom.ru
 ---
 
 
-:portfolio-image{image="/img/portfolio/kddom/main.png" alt="kddom.ru"}
+:portfolio-image{image="/img/portfolio/kddom/main.png" alt="kddom.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -29,7 +29,7 @@ title: О компании
 РФ.
 ::
 
-:portfolio-image{image="/img/portfolio/kddom/image1.jpg" alt="kddom.ru"}
+:portfolio-image{image="/img/portfolio/kddom/image1.jpg" alt="kddom.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -51,4 +51,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/kddom/image2.jpg" alt="kddom.ru"}
+:portfolio-image{image="/img/portfolio/kddom/image2.jpg" alt="kddom.ru" class="w-full"}

@@ -28,7 +28,7 @@ title: О компании
 
 ::
 
-:portfolio-image{image="/img/portfolio/stsbroker/image1.jpg" alt="stsbroker.ru"}
+:portfolio-image{image="/img/portfolio/stsbroker/image1.jpg" alt="stsbroker.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -45,4 +45,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/stsbroker/image2.jpg" alt="stsbroker.ru"}
+:portfolio-image{image="/img/portfolio/stsbroker/image2.jpg" alt="stsbroker.ru" class="w-full"}

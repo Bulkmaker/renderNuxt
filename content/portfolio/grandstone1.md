@@ -16,7 +16,7 @@ h1: Создание сайта Гарден стоун
 ---
 
 
-:portfolio-image{image="/img/portfolio/grandstone1/main.png" alt="grandstone1.ru"}
+:portfolio-image{image="/img/portfolio/grandstone1/main.png" alt="grandstone1.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -32,7 +32,7 @@ Stone. Слаженная команда высококвалифицирова�
 
 ::
 
-:portfolio-image{image="/img/portfolio/grandstone1/image1.jpg" alt="grandstone1.ru"}
+:portfolio-image{image="/img/portfolio/grandstone1/image1.jpg" alt="grandstone1.ru" class="w-full"}
 
 ::portfolio-block
 ---
@@ -55,4 +55,4 @@ title: Выполненные работы
 
 ::
 
-:portfolio-image{image="/img/portfolio/grandstone1/image2.jpg" alt="grandstone1.ru"}
+:portfolio-image{image="/img/portfolio/grandstone1/image2.jpg" alt="grandstone1.ru" class="w-full"}
