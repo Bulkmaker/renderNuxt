@@ -12,5 +12,3 @@ layout: modules
 >Размещайте свои статьи и новости на сайте. Держите клиентов курсе ваших последних событий
 
 :portfolio-image{image="/img/blog.png" alt="Блог для вашего сайта" class="w-full"}
-
-## Стоимость: {{ $doc.cardprice }}

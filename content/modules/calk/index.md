@@ -12,5 +12,3 @@ layout: modules
 >Модуль позволяет рассчитывать цену будущего проекта по выбранным параметрам на лету. 
 
 :portfolio-image{image="/img/calc.jpg" alt="Калькулятор стоимости" class="w-full"}
-
-## Стоимость: {{ $doc.cardprice }}

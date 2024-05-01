@@ -13,5 +13,3 @@ layout: modules
 >Модуль предназначен для быстрых ответов на часто задаваемые вопросы заказчика.
 
 :portfolio-image{image="/img/faq.png" alt="Вопрос/ответ" class="w-full"}
-
-## Стоимость: {{ $doc.cardprice }}

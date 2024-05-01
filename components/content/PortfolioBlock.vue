@@ -34,7 +34,7 @@ defineProps({
 .text
   @apply text-lg
 .title
-  @apply text-4xl font-semibold
+  @apply text-3xl font-semibold
   span
     position: sticky
     top: 30px

@@ -23,7 +23,6 @@ defineProps({
 .quote
     background-color: #fff
     border-left: 5px solid var(--accent)
-    border-radius: 5px
     -webkit-box-shadow: 0 0 10px -7px rgba(0, 0, 0, .75)
     box-shadow: 0 0 10px -7px rgba(0, 0, 0, .75)
     margin-bottom: 20px
