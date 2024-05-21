@@ -30,9 +30,9 @@
             <br>
             <NuxtLink to="https://3d.render-room.ru" class="big-menu__biglink" target="_blank" @click="toggleActive">3D Маркет</NuxtLink>
             <br>
-            <NuxtLink to="/" class="big-menu__smalllink" @click="toggleActive">Готовые проекты</NuxtLink>
-            <NuxtLink to="/" class="big-menu__smalllink" @click="toggleActive">Визуализация</NuxtLink>
-            <NuxtLink to="/" class="big-menu__smalllink" @click="toggleActive">Проект на заказ</NuxtLink>
+            <NuxtLink to="https://3d.render-room.ru/katalog" class="big-menu__smalllink" target="_blank" @click="toggleActive">Готовые проекты</NuxtLink>
+            <NuxtLink to="https://3d.render-room.ru/price" class="big-menu__smalllink" target="_blank" @click="toggleActive">Визуализация</NuxtLink>
+            <NuxtLink to="https://3d.render-room.ru/dop/uluchshennaya-vizualizacziya" class="big-menu__smalllink" target="_blank" @click="toggleActive">Проект на заказ</NuxtLink>
             <br>
             <NuxtLink to="/blog" class="big-menu__biglink" @click="toggleActive">Блог</NuxtLink>
             <br>

@@ -156,10 +156,11 @@
             margin-bottom: 10px
         &_link
             text-decoration: none
-            font-size: 16px
-            margin: 2px 5px 2px 0
+            font-size: 18px
+            margin: 4px 8px 4px 0
             color: var(--link-color)
             font-weight: 400
+            display: block
             &:hover
                 text-decoration: underline
 

@@ -26,6 +26,11 @@ main
     background-position: right center
 
     background-repeat: no-repeat
+    box-shadow: inset 0px -10px 100px 11px rgba(255,255,255,1)
+    &__wrapper
+        position: sticky
+        top: calc(40px + var(--header-height))
+        margin-bottom: 50px
 .text
     display: grid
     grid-template-columns: minmax(200px, 500px) 1fr

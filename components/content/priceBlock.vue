@@ -1,5 +1,5 @@
 <script setup>
-    const { page } = useContent()
+const { page } = useContent()
 </script>
 
 <template>
@@ -8,7 +8,7 @@
         <NuxtLink to="/uslugi" class="my-4 block no-underline"> <span >← назад к услугам</span></NuxtLink>
         <h1>{{ page.h1 ? page.h1 : page.cardtitle }}</h1>
 
-         <slot/>
+        <slot/>
 
         <a :href="page.url" class="link portfolio-link my-20" target="_blank" v-if="page.url"> {{ page.menutitle ? page.menutitle : page.url }}
             <img src="/svg/link.svg" alt="social__inst" width="20" height="20" >
