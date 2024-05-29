@@ -4,6 +4,7 @@
 .cache
 .data
 .env
+.output
 dist
 .fleet
 .DS_Store

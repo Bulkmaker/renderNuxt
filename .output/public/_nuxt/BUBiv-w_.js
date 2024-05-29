@@ -1,1 +1,0 @@
-import{_ as o}from"./DEkaF7Br.js";import{E as r,F as t,a3 as s}from"./WMbAcvoy.js";const n={};function a(e,c){return r(),t("tbody",null,[s(e.$slots,"default")])}const _=o(n,[["render",a]]);export{_ as default};
