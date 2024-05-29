@@ -1,0 +1,1 @@
+import t from"./BmCD7iDR.js";import"./DEkaF7Br.js";import{j as r,E as e,R as n}from"./WMbAcvoy.js";import"./0w-4fv_c.js";import"./CKVbHXYQ.js";import"./V8uMK_-e.js";import"./B6YR-2ZQ.js";const d=r({__name:"[...slug]",setup(p){return(c,m)=>{const o=t;return e(),n(o,{class:"content-wrapper"})}}});export{d as default};

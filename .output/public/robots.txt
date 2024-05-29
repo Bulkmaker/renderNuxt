@@ -1,0 +1,9 @@
+# START nuxt-simple-robots (indexable)
+User-agent: Yandex
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://render-room.ru/sitemap.xml
+# END nuxt-simple-robots
