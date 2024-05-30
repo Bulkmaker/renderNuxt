@@ -22,6 +22,7 @@
     "sass": "^1.75.0"
   },
   "dependencies": {
-    "@artmizu/yandex-metrika-nuxt": "^1.0.4"
+    "@artmizu/yandex-metrika-nuxt": "^1.0.4",
+    "consola": "^3.2.3"
   }
 }
