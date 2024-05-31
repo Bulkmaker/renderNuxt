@@ -22,7 +22,7 @@ main
     display: flex
     flex-direction: column
     justify-content: center
-    background-image: url("../svg/hexagon.svg")
+    background-image: url("../img/hexagon.svg")
     background-position: right center
 
     background-repeat: no-repeat
