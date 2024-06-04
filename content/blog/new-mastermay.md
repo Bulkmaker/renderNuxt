@@ -7,6 +7,13 @@ menutitle: Перенос mastermay.ru
 layout: blog
 h1: Перенос mastermay.ru
 thumb: '/img/portfolio/mastermay/card.jpg'
-date: 12.01.2024
+date: 2024-01-12
 ---
-Перенесли сайт на ModX. Нарисовали новый дизайн. Разработали Новую страницу проекта, уникальная страница комплектации. 
+Перенесли сайт на ModX. Нарисовали новый дизайн. Разработали Новую страницу проекта, уникальная страница комплектации.
+:portfolio-image{image="/img/portfolio/mastermay/image1.jpg" alt="mastermay.ru" class="w-full my-2"}
+::link-block
+---
+title: Перейти на сайт
+url: https://mastermay.ru/
+---
+::

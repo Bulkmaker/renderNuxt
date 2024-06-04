@@ -12,6 +12,7 @@ export default defineNuxtConfig({
         'nuxt-swiper',
         '@artmizu/yandex-metrika-nuxt',
         'nuxt-gtag',
+
     ],
     app: {
         head: {

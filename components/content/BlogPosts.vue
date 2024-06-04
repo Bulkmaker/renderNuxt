@@ -1,8 +1,10 @@
 <script setup lang="ts">
+import moment from 'moment';
 const {data} = await useAsyncData(() => {
 
     return queryContent('/blog').sort({date: -1, favorite: 1}).where({category: 'blog'}).find()
 })
+
 </script>
 <template>
 
@@ -13,10 +15,10 @@ const {data} = await useAsyncData(() => {
                         <span v-if="post.cardtitle" class="card-title">
                          {{ post.cardtitle }}
                         </span>
-                    <span v-if="post.date" class="card-year">
-                         {{ post.date }}
-                        </span>
-                    <!--                        <img        :src="post.thumb" :alt="post.title"     loading="lazy"/>-->
+                     <span v-if="post.date" class="card-year">
+                         {{ moment(post.date).locale('ru').format('D.MM.YYYY') }}
+                         </span>
+                      <!--                       <img        :src="post.thumb" :alt="post.title"     loading="lazy"/>-->
                     <div class="card-tags">
                         <div v-for="(tag, idx) of post.tags" :key="idx">
                             <div class="card-tag">{{ tag }}</div>

@@ -7,6 +7,13 @@ menutitle: Перенос ecodom-kostroma.ru
 layout: blog
 h1: Перенос ecodom-kostroma.ru
 thumb: '/img/portfolio/ecodom-kostroma/card.jpg'
-date: 12.01.2024
+date: 2024-02-11
 ---
-Разработали новую страницу с комплектацией
+
+:portfolio-image{image="/img/portfolio/ecodom-kostroma/main.jpg" alt="ecodom-kostroma.ru" class="w-full"}
+::link-block
+---
+title: Перейти на сайт
+url: https://ecodom-kostroma.ru/
+---
+::
