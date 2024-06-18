@@ -28,9 +28,9 @@
             <br>
             <NuxtLink to="/portfolio" class="big-menu__biglink" @click="toggleActive">Наши работы</NuxtLink>
             <br>
-            <NuxtLink to="https://3d.render-room.ru" class="big-menu__biglink" target="_blank" @click="toggleActive">3D Маркет</NuxtLink>
+            <NuxtLink to="https://3d.render-room.ru" class="big-menu__biglink" target="_blank" @click="toggleActive">Готовые 3D проекты домов</NuxtLink>
             <br>
-            <NuxtLink to="https://3d.render-room.ru/katalog" class="big-menu__smalllink" target="_blank" @click="toggleActive">Готовые проекты</NuxtLink>
+            <NuxtLink to="https://3d.render-room.ru/katalog" class="big-menu__smalllink" target="_blank" @click="toggleActive">Каталог проектов</NuxtLink>
             <NuxtLink to="https://3d.render-room.ru/price" class="big-menu__smalllink" target="_blank" @click="toggleActive">Визуализация</NuxtLink>
             <NuxtLink to="https://3d.render-room.ru/dop/uluchshennaya-vizualizacziya" class="big-menu__smalllink" target="_blank" @click="toggleActive">Проект на заказ</NuxtLink>
             <br>
