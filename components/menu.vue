@@ -15,7 +15,7 @@
 
                 </li>
                 <li class="menu-item">
-                    <NuxtLink to="https://3d.render-room.ru" target="_blank" class="menu__link">3D Маркет
+                    <NuxtLink to="https://3d.render-room.ru" title="Перейти в магазин 3д проектов домов для строительных сайтов" target="_blank" class="menu__link">3D визуализация
                         <img src="/svg/external.svg" alt="3D Маркет" width="14" height="14">
                     </NuxtLink>
                 </li>

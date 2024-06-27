@@ -3,9 +3,6 @@
     <url>
         <loc>https://render-room.ru/</loc>
         <image:image>
-            <image:loc>https://render-room.ru/_ipx/_/img/mainRR.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/icons/site.png</image:loc>
         </image:image>
         <image:image>
@@ -60,17 +57,17 @@
     <url>
         <loc>https://render-room.ru/blog/new-44srub</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/blog/new-brusovoi</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
+            <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
+    </url>
+    <url>
+        <loc>https://render-room.ru/blog/new-brusvilla</loc>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -78,29 +75,23 @@
     <url>
         <loc>https://render-room.ru/blog/new-catalog</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/blog/new-ekodom</loc>
+        <image:image>
+            <image:loc>https://render-room.ru/svg/link.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/blog/new-mastermay</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/blog/new-moiausadba</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -109,76 +100,46 @@
         <loc>https://render-room.ru/blog/new-site</loc>
     </url>
     <url>
-        <loc>https://render-room.ru/modules/blog</loc>
+        <loc>https://render-room.ru/blog/new-stroynadache</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
+            <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
+    </url>
+    <url>
+        <loc>https://render-room.ru/modules/blog</loc>
     </url>
     <url>
         <loc>https://render-room.ru/modules/calk</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/dostavka</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/faq</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/favorites</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/filter</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/fotomap</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/fotorep</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/poisk</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/price-change</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/modules/youtube</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/44srub</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -186,17 +147,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/brusidoska</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/brusmir</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -204,17 +159,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/brusovoi</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/dom4sezona</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -222,17 +171,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/doma-k</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/domapremier</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -240,17 +183,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/domik-stroi</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/domovidovo</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -258,17 +195,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/drev-brus</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/drev-home</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -276,17 +207,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/drev-izba</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/drevartel</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -294,17 +219,17 @@
     <url>
         <loc>https://render-room.ru/portfolio/drevcenter</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/drevsever</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
+            <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
+    </url>
+    <url>
+        <loc>https://render-room.ru/portfolio/ecodom-kostroma</loc>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -312,17 +237,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/ekosryb</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/escopro</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -330,17 +249,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/galich-dom</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/grandgardenstone</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -348,17 +261,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/grandstone1</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/kddom</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -366,17 +273,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/kostromadomstroy</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/kostromaplotnik</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -384,17 +285,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/kostromskoy-terem</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/lider-brus</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -402,17 +297,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/masterlesstroi</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/mastermay</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -420,17 +309,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/moiausadba</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/prodrev</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -438,17 +321,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/profplotnik</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/rosvilla</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -456,17 +333,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/sevterema</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/sk-lesnik</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -474,17 +345,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/smelloff</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/srub-profi</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -492,17 +357,17 @@
     <url>
         <loc>https://render-room.ru/portfolio/srubdoma</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/stroibrus</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
+            <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
+    </url>
+    <url>
+        <loc>https://render-room.ru/portfolio/stroynadache</loc>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -510,17 +375,11 @@
     <url>
         <loc>https://render-room.ru/portfolio/stsbroker</loc>
         <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://render-room.ru/portfolio/sudai-srub</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -530,9 +389,6 @@
     </url>
     <url>
         <loc>https://render-room.ru/sites/pro</loc>
-        <image:image>
-            <image:loc>https://render-room.ru/img/thumb.svg</image:loc>
-        </image:image>
         <image:image>
             <image:loc>https://render-room.ru/svg/link.svg</image:loc>
         </image:image>
@@ -565,4 +421,4 @@
         <loc>https://render-room.ru/uslugi/support/tehnical-support</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.2.0 at 2024-06-04T09:14:05.765Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.2.2 at 2024-06-27T12:35:06.600Z -->
