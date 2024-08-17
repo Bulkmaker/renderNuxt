@@ -2,7 +2,7 @@
   <footer>
     <div class=" container mx-auto py-4">
         <div class="footer-grid">
-            <img src="/logow.png" alt="" class="shrink-0">
+            <img src="/logow.png" alt="" class="shrink-0 logo">
             <ul class="list-image-none">
                 <li class="ms-0 ps-0">
                     <NuxtLink to="/sites" class=" ">Создание сайтов</NuxtLink>
@@ -47,6 +47,9 @@
 footer
     padding: 20px 30px
     background-color: #1a191a
+    .logo
+      width: 220px
+      max-width: 100%
     a
         color: #ffffff
         text-decoration: none

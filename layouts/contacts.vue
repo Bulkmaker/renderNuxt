@@ -84,7 +84,7 @@ const {page} = useContent()
     background: #f5f5f5
     color: #464a4e
     padding: 10px 20px
-    border-radius: 5px
+    border-radius: 15px
     text-decoration: none
     font-weight: 500
     transition: box-shadow .25s ease, transform .3s ease, color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out, -webkit-box-shadow .15s ease-in-out
@@ -104,7 +104,7 @@ const {page} = useContent()
     flex-direction: column
     padding: 30px
     min-width: 200px
-    border-radius: 5px
+    border-radius: 15px
     justify-content: center
     align-items: center
     background: #40b3e0

@@ -219,7 +219,7 @@ button
     .big-menu
         padding-left: 70px
         &__biglink
-            font-size: 50px
+            font-size: 30px
             white-space: nowrap
         &__header
             padding-left: 30px

@@ -27,7 +27,7 @@ const {data} = await useAsyncData(() => {
 <style lang="sass" scoped>
 .card
     overflow: hidden
-    border-radius: 2px
+    border-radius: 15px
     border: 1px solid #cccccc
     padding: 30px
     cursor: pointer

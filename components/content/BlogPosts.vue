@@ -8,7 +8,7 @@ const {data} = await useAsyncData(() => {
 </script>
 <template>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mb-5 gap-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mb-5 gap-5">
         <div v-for="post in data" :key="post._id" class="card">
             <NuxtLink :to="post._path"  :aria-label="post.title" :title="post.title">
                 <div class="card-image" :style="{ backgroundImage: `url(${post.thumb})` }">
@@ -34,6 +34,7 @@ const {data} = await useAsyncData(() => {
 <style lang="sass" scoped>
 .card
     overflow: hidden
+    border-radius: 15px
 // outline: 1px solid #252525
 .card-image
     aspect-ratio: 1.3/1
