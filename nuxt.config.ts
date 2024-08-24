@@ -14,9 +14,12 @@ export default defineNuxtConfig({
     '@artmizu/yandex-metrika-nuxt',
     'nuxt-gtag',
     'nuxt-og-image',
+    '@nuxthq/studio',
   ],
 
-
+    studio: {
+        enabled: true
+    },
 
   app: {
       head: {

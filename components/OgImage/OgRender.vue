@@ -45,12 +45,12 @@ const title = computed(() => props.title.slice(0, 60))
             </defs>
         </svg>
 
-        <div class="w-[600px] pl-[100px]">
+        <div class="w-[800px] pl-[100px]">
 
-            <h1 class="w-[700px] m-0 text-[55px] font-semibold mb-4 text-white flex items-center">
+            <h1 class="w-[700px] m-0 text-[48px] font-semibold mb-4 text-white flex items-center">
                 <span>{{ title }}</span>
             </h1>
-            <p class="text-[32px] text-[#E4E4E7] leading-tight">
+            <p class="text-[28px] text-[#E4E4E7] leading-tight">
                 {{ description.slice(0, 200) }}
             </p>
         </div>
