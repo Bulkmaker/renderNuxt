@@ -15,11 +15,6 @@ url: https://mastermay.ru/
 layout: sites
 favorite: true
 h1: Сайт для строительной компании Мастермай
-ogImage:
-  component: OgImageOgRender
-  props:
-    title: Перенос сайта mastermay.ru
-    description: Перенесли сайт на новую платформу. Разработали индивидуальный дизайн и перерисовали все проекты.
 ---
 
 :portfolio-image{image="/img/portfolio/mastermay/mastermay.png" alt="mastermay.ru" class="w-full"}

@@ -2,7 +2,7 @@
 //import config from './config.json'
 
 export default defineNuxtConfig({
-  ssr: true,
+  //ssr: true,
   devtools: {enabled: true,},
 
   modules: [
