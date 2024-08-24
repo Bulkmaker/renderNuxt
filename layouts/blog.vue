@@ -1,5 +1,5 @@
 <script setup>
-import moment from 'moment';
+import moment from 'moment'; // для даты
 const {page} = useContent()
 </script>
 

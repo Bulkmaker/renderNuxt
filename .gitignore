@@ -8,6 +8,8 @@
 dist
 .fleet
 .DS_Store
+.yarn
+
 
 # Logs
 logs
