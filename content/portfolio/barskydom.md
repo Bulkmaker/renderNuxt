@@ -11,7 +11,7 @@ tags:
   - 3d проекты
 url: https://barskydom.ru/
 layout: sites
-favorite: true
+favorite: false
 h1: Перенос сайта Барский дом на новый движок
 ---
 

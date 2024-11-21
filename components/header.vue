@@ -23,7 +23,7 @@
     z-index: 10
     padding: 0 20px 0 70px
     @screen md
-        padding-left: 100px
+        padding: 0 50px 0 100px
     &__inner
         display: flex
         width: 100%
