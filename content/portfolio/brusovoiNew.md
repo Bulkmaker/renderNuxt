@@ -1,32 +1,34 @@
 ---
-title: Обновление сайта sk-timber.ru
+title: Редизайн сайта brusovoi.ru
 description: Перенос сайта sk-timber.ru. Система Modx. Дизайн Render room.
-thumb: /img/portfolio/sktimber/card.jpg
-image: /img/portfolio/sktimber/card.jpg
+thumb: /img/portfolio/brusovoiNew/card.jpg
+image: /img/portfolio/brusovoiNew/card.jpg
 year: 2024
-cardtitle: СК Тимбер
-menutitle: sk-timber.ru
+cardtitle: СК Брусовой
+menutitle: brusovoi.ru
 tags:
-  - Перенос
-  - Готовый шаблон
+  - Видео
+  - Дизайн
   - 3d проекты
-url: https://sk-timber.ru/
+  - Модернизация
+url: https://brusovoi.ru/
 layout: sites
-favorite: false
-h1: Перенос сайта СК Тимбер
+favorite: true
+h1: Редизайн сайта СК Брусовой
 ---
 
-:portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/sktimber/main.jpg"}
+:portfolio-image{.w-full alt="brusovoi.ru" image="/img/portfolio/brusovoiNew/main.jpg"}
 
 ::portfolio-block{title="О компании"}
-Перенсли сайт на новую платформу. Добавили функционал сайта, обновили дизайн.
+Новый сайт для компании брусовой. Добавили видео на фон. Добавили функционал сайта, обновили дизайн.
 ::
 
-:portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/sktimber/image1.jpg"}
+:portfolio-image{.w-full alt="brusovoi.ru" image="/img/portfolio/brusovoiNew/image1.jpg"}
 
 ::portfolio-block{title="Выполненные работы"}
 - Обновление функционала старого сайта. 
-- Дизайн клиента
+- Сделали видео облёт дома
+- Индивидуальный дизайн
 - Адаптивная вёрстка
 - Модуль фильтра для проектов каталога
 - Модуль избранное

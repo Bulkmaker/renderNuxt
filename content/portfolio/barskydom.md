@@ -9,6 +9,7 @@ menutitle: barskydom.ru
 tags:
   - Готовый шаблон
   - 3d проекты
+  - Перенос
 url: https://barskydom.ru/
 layout: sites
 favorite: false
