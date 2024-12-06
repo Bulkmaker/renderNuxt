@@ -62,7 +62,9 @@ nav
     &-wrapper
         display: flex
         list-style: none
-    &-item
+        margin-bottom: 0
+
+  &-item
         position: relative
         padding: 0
         margin: 0
