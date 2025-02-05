@@ -48,11 +48,11 @@
                         </NuxtLink>
 
 
-                        <NuxtLink to="https://3d.render-room.ru/viz/uluchshennaya-vizualizacziya" class="ucard_link"  target="_blank">
+                        <NuxtLink to="https://3d.render-room.ru/dop/uluchshennaya-vizualizacziya" class="ucard_link"  target="_blank">
                             Индивидуальные проект
                         </NuxtLink>
 
-                        <NuxtLink to="https://3d.render-room.ru/viz/animation" class="ucard_link"  target="_blank">
+                        <NuxtLink to="https://3d.render-room.ru/dop/video-animacziya" class="ucard_link"  target="_blank">
                             Видео Анимации
                         </NuxtLink>
 
@@ -75,10 +75,10 @@
                         </NuxtLink>
                       
                     
-                        <NuxtLink to="/uslugi/support/tehnical-support"  target="_blank" class="ucard_link">
+                        <NuxtLink to="/uslugi/support/tehnical-support"   class="ucard_link">
                           Техническая поддержка
                         </NuxtLink>
-                        <NuxtLink to="/uslugi/support/tehnical-support" class="ucard_link"  target="_blank">
+                        <NuxtLink to="/uslugi/support/tehnical-support" class="ucard_link"  >
                           Полная поддержка
                         </NuxtLink>
               
@@ -86,9 +86,7 @@
                             Реклама
                         </NuxtLink>
 
-                        <NuxtLink to="/uslugi/seo-prodvizhenie-sajtov" class="ucard_link"  >
-                            Социальные сети
-                        </NuxtLink>
+             
 
                     </div>
                     <p>Берем на себя все работы по сайту</p>
