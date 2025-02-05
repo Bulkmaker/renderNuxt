@@ -9,7 +9,7 @@
               />
           </div>
 
-          <p class="subtitle">Разработка сайтов для строительных компаний </p>
+          <h1 class="subtitle">Разработка сайтов для строительных компаний </h1>
       </div>
 
   </div>
@@ -48,7 +48,7 @@ main
 .subtitle
     margin-top: 10px
     font-size: clamp(20px,calc(9 / 150 * 100vw),30px)
-
+    font-weight: 300
     line-height: 1.3
 </style>
 <script setup lang="ts">

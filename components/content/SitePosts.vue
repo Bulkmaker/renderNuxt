@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const {data} = await useAsyncData(() => {
 
-    return queryContent('/portfolio/').sort({year: -1, favorite: 1}).limit(5).find()
+    return queryContent('/portfolio/').sort({date: -1, favorite: 1}).limit(5).find()
 })
 </script>
 <template>

@@ -5,9 +5,10 @@
     <div class="uslugi">
         <div class="uslugi-grid">
             <div class="ucard">
-                <div class="ucard_image">
-                    <img src="/icons/site.png" alt="">
-                </div>
+            
+<!--                <div class="ucard_image">-->
+<!--                    <img src="/icons/site.png" alt="">-->
+<!--                </div>-->
 
                 <div class="ucard_body">
                     <NuxtLink to="/sites" class="ucard_title">
@@ -33,9 +34,9 @@
                 </div>
             </div>
             <div class="ucard">
-                <div class="ucard_image">
-                    <img src="/icons/render.png" alt="">
-                </div>
+<!--                <div class="ucard_image">-->
+<!--                    <img src="/icons/render.png" alt="">-->
+<!--                </div>-->
                 <div class="ucard_body">
                     <NuxtLink to="https://3d.render-room.ru" target="_blank" class="ucard_title">
                         3д Визуалзация
@@ -56,24 +57,31 @@
                         </NuxtLink>
 
                     </div>
-                    <p>Создаём современные и удобные сайты для строителей.  </p>
+                    <p>Качественные 3d проекты, визуализация и анимация</p>
                 </div>
             </div>
             <div class="ucard">
-                <div class="ucard_image">
-                    <img src="/icons/seo.png" alt="">
-                </div>
+<!--                <div class="ucard_image">-->
+<!--                    <img src="/icons/seo.png" alt="">-->
+<!--                </div>-->
                 <div class="ucard_body">
                     <NuxtLink to="/uslugi/seo-prodvizhenie-sajtov" class="ucard_title">
-                        Продвижение
+                        Продвижение и поддержка
                     </NuxtLink>
                     <div class="ucard_links">
 
                         <NuxtLink to="/uslugi/seo-prodvizhenie-sajtov"  class="ucard_link">
                             Seo Продвижение
                         </NuxtLink>
-
-
+                      
+                    
+                        <NuxtLink to="/uslugi/support/tehnical-support"  target="_blank" class="ucard_link">
+                          Техническая поддержка
+                        </NuxtLink>
+                        <NuxtLink to="/uslugi/support/tehnical-support" class="ucard_link"  target="_blank">
+                          Полная поддержка
+                        </NuxtLink>
+              
                         <NuxtLink to="/uslugi/reklama" class="ucard_link"  >
                             Реклама
                         </NuxtLink>
@@ -83,29 +91,10 @@
                         </NuxtLink>
 
                     </div>
-                    <p>Создаём современные и удобные сайты для строителей.  </p>
+                    <p>Берем на себя все работы по сайту</p>
                 </div>
             </div>
-            <div class="ucard">
-                <div class="ucard_image">
-                    <img src="/icons/support.png" alt="">
-                </div>
-
-                <div class="ucard_body">
-                    <NuxtLink to="/uslugi/support" class="ucard_title">
-                        Поддержка Сайтов
-                    </NuxtLink>
-                    <div class="ucard_links">
-                        <NuxtLink to="/uslugi/support/tehnical-support"  target="_blank" class="ucard_link">
-                            Техническая поддержка
-                        </NuxtLink>
-                        <NuxtLink to="/uslugi/support/tehnical-support" class="ucard_link"  target="_blank">
-                            Полная поддержка
-                        </NuxtLink>
-                    </div>
-                    <p>Создаём современные и удобные сайты для строителей.  </p>
-                </div>
-            </div>
+            
         </div>
     </div>
 
@@ -117,7 +106,7 @@
         display: grid
         grid-template-columns: 1fr
         @screen md
-            grid-template-columns: 1fr 1fr
+            grid-template-columns: 1fr 1fr 1fr
     .ucard
         display: grid
         grid-template-columns: 1fr
@@ -136,9 +125,9 @@
                 max-width: 100px
                 height: auto
         @screen lg
-            grid-template-columns: 150px 1fr
+            grid-template-columns:  1fr
             border-right-width: 0
-            &:nth-child(2n)
+            &:nth-child(3n)
                 border-right-width: 1px
 
         &:hover
