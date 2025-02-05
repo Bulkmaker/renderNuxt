@@ -4,6 +4,7 @@ description: Обновление сайта srubdoma.ru, перенос на wo
 thumb: '/img/portfolio/srubdoma/card.jpg'
 image: '/img/portfolio/srubdoma/card.jpg'
 year: 2016
+date: 2016-11-01
 cardtitle: Сруб Дома
 menutitle: srubdoma.ru
 tags:

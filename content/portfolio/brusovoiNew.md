@@ -4,6 +4,7 @@ description: Перенос сайта sk-timber.ru. Система Modx. Диз
 thumb: /img/portfolio/brusovoiNew/card.jpg
 image: /img/portfolio/brusovoiNew/card.jpg
 year: 2024
+date: 2024-06-01
 cardtitle: СК Брусовой
 menutitle: brusovoi.ru
 tags:

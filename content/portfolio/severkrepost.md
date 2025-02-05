@@ -4,6 +4,7 @@ description: Редизайн сайта profplotnik.ru. Обновление ф
 thumb: /img/portfolio/severkrepost/card.jpg
 image: /img/portfolio/severkrepost/card.jpg
 year: 2024
+date: 2024-08-01
 cardtitle: Север крепость
 menutitle: severkrepost.ru
 tags:

@@ -4,6 +4,7 @@ description: Система ModX, уникальный дизайн, перер�
 thumb: '/img/portfolio/44srub/card.jpg'
 image: '/img/portfolio/44srub/44srub.ru-big.png'
 year: 2021
+date: 2021-03-01
 cardtitle: Чухломская усадьба
 menutitle: 44srub.ru
 favorite: true

@@ -4,6 +4,7 @@ description: Перенос сайта brusmir.ru. Система Modx. Уник
 thumb: '/img/portfolio/brusmir/card.jpg'
 image: '/img/portfolio/brusmir/card.jpg'
 year: 2018
+date: 2018-03-01
 cardtitle: Брусмир
 menutitle: brusmir.ru
 tags:

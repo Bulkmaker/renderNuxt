@@ -4,6 +4,7 @@ description: Полный перенос сайта на MODX. Исправле�
 thumb: '/img/portfolio/drev-izba/card.jpg'
 image: '/img/portfolio/drev-izba/card.jpg'
 year: 2022
+date: 2022-01-01
 cardtitle: Древизба
 menutitle: drev-izba.ru
 tags:

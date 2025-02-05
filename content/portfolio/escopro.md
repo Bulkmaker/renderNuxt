@@ -4,6 +4,7 @@ description: Создание и наполнение контентом сай�
 thumb: '/img/portfolio/escopro/card.jpg'
 image: '/img/portfolio/escopro/card.jpg'
 year: 2017
+date: 2017-03-01
 cardtitle: Эско акссесуары
 menutitle: escopro.ru
 tags:

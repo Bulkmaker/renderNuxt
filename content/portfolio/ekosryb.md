@@ -4,6 +4,7 @@ description: Создание сайта Экосруб, новый дизайн
 thumb: '/img/portfolio/ekosryb/card.jpg'
 image: '/img/portfolio/ekosryb/card.jpg'
 year: 2016
+date: 2016-02-01
 cardtitle: Экосруб
 menutitle: ekosryb.ru
 tags:

@@ -4,6 +4,7 @@ description: Готовый сайт на продажу с проектами r
 thumb: '/img/portfolio/rosvilla/card.jpg'
 image: '/img/portfolio/rosvilla/card.jpg'
 year: 2019
+date: 2019-01-01
 cardtitle: Росвилла
 menutitle: rosvilla.ru
 tags:

@@ -4,6 +4,7 @@ description: Перенос и обслуживание drev-brus.ru
 thumb: '/img/portfolio/drev-brus/card.jpg'
 image: '/img/portfolio/drev-brus/card.jpg'
 year: 2020
+date: 2022-07-01
 cardtitle: Древ брус
 menutitle: drev-brus.ru
 tags:

@@ -4,6 +4,7 @@ description: Обновление и перенос сайта Кострома�
 thumb: '/img/portfolio/kostromadomstroy/card.jpg'
 image: '/img/portfolio/kostromadomstroy/card.jpg'
 year: 2018
+date: 2018-04-01
 cardtitle: Костромадомстрой
 menutitle: kostromadomstroy.ru
 tags:

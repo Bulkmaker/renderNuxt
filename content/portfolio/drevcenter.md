@@ -4,6 +4,7 @@ description: Поддержка сайта заказчика. Настройк�
 thumb: '/img/portfolio/drevcenter/card.jpg'
 image: '/img/portfolio/drevcenter/drevcenter_main.jpg'
 year: 2022
+date: 2021-06-01
 cardtitle: Древцентр
 menutitle: drevcenter.ru
 tags:

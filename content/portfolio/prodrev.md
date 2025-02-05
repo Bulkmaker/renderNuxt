@@ -4,6 +4,7 @@ description: Создание и полная настройка сайта prod
 thumb: '/img/portfolio/prodrev/card.jpg'
 image: '/img/portfolio/prodrev/card.jpg'
 year: 2019
+date: 2019-09-01
 cardtitle: Продрев
 menutitle: prodrev.ru
 tags:

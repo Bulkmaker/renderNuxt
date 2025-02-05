@@ -4,6 +4,7 @@ description: Обновление сайта Грандстоун, Систем�
 thumb: '/img/portfolio/grandstone1/card.jpg'
 image: '/img/portfolio/grandstone1/card.jpg'
 year: 2019
+date: 2019-05-01
 cardtitle: Гранд стоун
 menutitle: grandstone1.ru
 tags:

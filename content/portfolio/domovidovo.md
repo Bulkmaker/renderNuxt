@@ -4,6 +4,7 @@ description: Создание сайта на шаблоне. Проекты и�
 thumb: '/img/portfolio/domovidovo/card.jpg'
 image: '/img/portfolio/domovidovo/card.jpg'
 year: 2020
+date: 2016-08-01
 cardtitle: Домовидово
 menutitle: domovidovo.ru
 tags:

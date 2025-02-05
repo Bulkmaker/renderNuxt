@@ -4,6 +4,7 @@ description: Перенос на Wordpress, Обновление каталог�
 thumb: '/img/portfolio/sevterema/card.jpg'
 image: '/img/portfolio/sevterema/card.jpg'
 year: 2018
+date: 2018-01-01
 cardtitle: Северные терема
 menutitle: sevterema.ru
 tags:

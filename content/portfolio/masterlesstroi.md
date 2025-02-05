@@ -4,6 +4,7 @@ description: Создание сайта с нуля, для строитель�
 thumb: '/img/portfolio/masterlesstroi/card.jpg'
 image: '/img/portfolio/masterlesstroi/card.jpg'
 year: 2018
+date: 2018-03-01
 cardtitle: Мастерлесстрой
 menutitle: masterlesstroi.ru
 tags:

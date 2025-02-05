@@ -4,6 +4,7 @@ description: Создание сайта для страховой компан�
 thumb: '/img/portfolio/stsbroker/card.jpg'
 image: '/img/portfolio/stsbroker/card.jpg'
 year: 2020
+date: 2020-05-01
 cardtitle: Брусовой
 menutitle: stsbroker.ru
 tags:

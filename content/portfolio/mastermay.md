@@ -4,6 +4,7 @@ description: Перенесли сайт на новую платформу. Р�
 thumb: '/img/portfolio/mastermay/card.jpg'
 image: '/img/portfolio/mastermay/thumb.jpeg'
 year: 2023
+date: 2023-06-01
 cardtitle: Мастермай
 menutitle: mastermay.ru
 tags:

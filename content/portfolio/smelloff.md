@@ -4,6 +4,7 @@ description: Создание вёрстки для сайта smelloff.ru
 thumb: '/img/portfolio/smelloff/card.jpg'
 image: '/img/portfolio/smelloff/card.jpg'
 year: 2020
+date: 2020-07-01
 cardtitle: Смелофф
 menutitle: smelloff.ru
 tags:

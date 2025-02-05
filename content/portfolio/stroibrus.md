@@ -4,6 +4,7 @@ description: Обновление сайта Строй-брус.рф, новы�
 thumb: '/img/portfolio/stroibrus/card.jpg'
 image: '/img/portfolio/stroibrus/card.jpg'
 year: 2016
+date: 2016-01-01
 cardtitle: Строй-брус
 menutitle: строй-брус.рф
 tags:

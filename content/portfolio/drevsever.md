@@ -4,6 +4,7 @@ description:
 thumb: '/img/portfolio/drevsever/card.jpg'
 image: '/img/portfolio/drevsever/drevsever_main.jpg'
 year: 2018
+date: 2018-03-01
 cardtitle: Древсевер
 menutitle: drevsever.ru
 tags:

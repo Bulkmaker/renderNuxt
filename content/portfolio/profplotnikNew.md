@@ -4,6 +4,7 @@ description: Редизайн сайта profplotnik.ru. Обновление ф
 thumb: /img/portfolio/profplotniknew/card.jpg
 image: /img/portfolio/profplotniknew/card.jpg
 year: 2024
+date: 2024-05-01
 cardtitle: Профплотник
 menutitle: profplotnik.ru
 tags:

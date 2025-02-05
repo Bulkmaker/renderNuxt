@@ -4,6 +4,7 @@ description: Создание сайта СК Лесник, Система Modx
 thumb: '/img/portfolio/sk-lesnik/card.jpg'
 image: '/img/portfolio/sk-lesnik/card.jpg'
 year: 2020
+date: 2020-02-01
 cardtitle: СК Лесник
 menutitle: sk-lesnik.ru
 tags:

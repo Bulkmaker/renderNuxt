@@ -4,6 +4,7 @@ description: Сайт для строительной компании Лиде�
 thumb: '/img/portfolio/lider-brus/card.jpg'
 image: '/img/portfolio/lider-brus/thumb.jpeg'
 year: 2022
+date: 2022-02-01
 cardtitle: Лидер брус
 menutitle: lider-brus.ru
 tags:

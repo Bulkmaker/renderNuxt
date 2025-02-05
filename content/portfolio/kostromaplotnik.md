@@ -4,6 +4,7 @@ description: Создание и обновление сайта на wordpress.
 thumb: '/img/portfolio/kostromaplotnik/card.jpg'
 image: '/img/portfolio/kostromaplotnik/card.jpg'
 year: 2017
+date: 2017-10-01
 cardtitle: Кострома Плотник
 menutitle: kostromaplotnik.ru
 tags:

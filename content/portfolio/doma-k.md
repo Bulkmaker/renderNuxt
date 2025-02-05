@@ -4,6 +4,7 @@ description: Создание сайта doma-k.ru на системе MODX.
 thumb: '/img/portfolio/doma-k/card.jpg'
 image: '/img/portfolio/doma-k/card.jpg'
 year: 2017
+date: 2017-04-01
 cardtitle: Дома из Костромы
 menutitle: doma-k.ru
 tags:

@@ -4,6 +4,7 @@ description: Перенос сайта barskydom.ru. Система Modx. Диз
 thumb: /img/portfolio/barskydom/card.jpg
 image: /img/portfolio/barskydom/card.jpg
 year: 2024
+date: 2024-06-01
 cardtitle: Барский дом
 menutitle: barskydom.ru
 tags:

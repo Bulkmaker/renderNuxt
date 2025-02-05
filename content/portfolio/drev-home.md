@@ -4,6 +4,7 @@ description: Перенос сайта для компании Древхом
 thumb: '/img/portfolio/drev-home/card.jpg'
 image: '/img/portfolio/drev-home/card.jpg'
 year: 2020
+date: 2016-11-01
 cardtitle: Древхом
 menutitle: drev-home.ru
 tags:

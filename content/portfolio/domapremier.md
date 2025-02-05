@@ -4,6 +4,7 @@ description: Обновили сайт и перенесли на новую с�
 thumb: '/img/portfolio/domapremier/card.jpg'
 image: '/img/portfolio/domapremier/card.jpg'
 year: 2021
+date: 2021-02-01
 cardtitle: Дома Премьер
 menutitle: Домапремьер.рф
 tags:

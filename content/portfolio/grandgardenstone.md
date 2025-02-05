@@ -4,6 +4,7 @@ description: Перенос и обслуживание grandgardenstone.ru
 thumb: '/img/portfolio/grandgardenstone/card.jpg'
 image: '/img/portfolio/grandgardenstone/card.jpg'
 year: 2019
+date: 2019-05-01
 cardtitle: Гарден стоун
 menutitle: grandgardenstone.ru
 tags:

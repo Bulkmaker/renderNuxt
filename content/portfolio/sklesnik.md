@@ -4,6 +4,7 @@ description: Перенос сайта sk-lesnik.ru. Система Modx. Диз
 thumb: /img/portfolio/sklesnik/card.jpg
 image: /img/portfolio/sklesnik/card.jpg
 year: 2024
+date: 2024-09-01
 cardtitle: Костромской лесник
 menutitle: sk-lesnik.ru
 tags:

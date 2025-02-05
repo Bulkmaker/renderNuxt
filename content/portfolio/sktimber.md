@@ -4,6 +4,7 @@ description: Перенос сайта sk-timber.ru. Система Modx. Диз
 thumb: /img/portfolio/sktimber/card.jpg
 image: /img/portfolio/sktimber/card.jpg
 year: 2024
+date: 2024-11-01
 cardtitle: СК Тимбер
 menutitle: sk-timber.ru
 tags:
@@ -19,7 +20,7 @@ h1: Перенос сайта СК Тимбер
 :portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/sktimber/main.jpg"}
 
 ::portfolio-block{title="О компании"}
-Перенсли сайт на новую платформу. Добавили функционал сайта, обновили дизайн.
+Перенесли сайт на новую платформу. Добавили функционал сайта, обновили дизайн.
 ::
 
 :portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/sktimber/image1.jpg"}

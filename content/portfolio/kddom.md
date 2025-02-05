@@ -3,6 +3,7 @@ title: Перенос и обслуживание kddom.ru
 thumb: '/img/portfolio/kddom/card.jpg'
 image: '/img/portfolio/kddom/card.jpg'
 year: 2014
+date: 2014-11-01
 cardtitle: КДДОМ
 menutitle: kddom.ru
 tags:

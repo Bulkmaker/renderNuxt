@@ -4,6 +4,7 @@ description: Перенос сайта ecodom-kostroma.ru. Система Modx. 
 thumb: '/img/portfolio/ecodom-kostroma/card.jpg'
 image: '/img/portfolio/ecodom-kostroma/card.jpg'
 year: 2024
+date: 2024-07-01
 cardtitle: Экодом Кострома
 menutitle: ecodom-kostroma.ru
 tags:

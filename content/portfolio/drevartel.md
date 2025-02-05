@@ -4,6 +4,7 @@ description: Создание сайта ДревАртель
 thumb: '/img/portfolio/drevartel/card.jpg'
 image: '/img/portfolio/drevartel/thumb.jpeg'
 year: 2016
+date: 2015-12-01
 cardtitle: ДревАртель
 menutitle: drevartel.ru
 tags:

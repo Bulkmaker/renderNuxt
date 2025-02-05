@@ -4,6 +4,7 @@ description: Перенос сайта Судай сруб на MODX. Новый
 thumb: '/img/portfolio/sudai-srub/card.jpg'
 image: '/img/portfolio/sudai-srub/card.jpg'
 year: 2020
+date: 2020-12-01
 cardtitle: Судай сруб
 menutitle: sudai-srub.ru
 tags:

@@ -4,6 +4,7 @@ description: Перенос сайта на систему ModX. 3D проект
 thumb: '/img/portfolio/brusidoska/card.jpg'
 image: '/img/portfolio/brusidoska/card.jpg'
 year: 2020
+date: 2022-05-01
 cardtitle: Брус и Доска
 menutitle: brusidoska.ru
 tags:

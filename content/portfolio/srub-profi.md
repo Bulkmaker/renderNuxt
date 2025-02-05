@@ -4,6 +4,7 @@ description: Перенесли на Wordpress сайт Срубпрофи. На
 thumb: '/img/portfolio/srub-profi/card.jpg'
 image: '/img/portfolio/srub-profi/card.jpg'
 year: 2014
+date: 2014-09-01
 cardtitle: Сруб Профи
 menutitle: srub-profi.ru
 tags:

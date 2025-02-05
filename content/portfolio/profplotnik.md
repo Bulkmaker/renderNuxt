@@ -4,6 +4,7 @@ description: Перенос сайта на систему Modx, новый ди
 thumb: '/img/portfolio/profplotnik/card.jpg'
 image: '/img/portfolio/profplotnik/thumb.jpeg'
 year: 2020
+date: 2020-09-01
 cardtitle: Профплотник
 menutitle: profplotnik.ru
 tags:

@@ -4,6 +4,7 @@ description: Перенос сайта Костромской терем на Wo
 thumb: '/img/portfolio/kostromskoyterem/card.jpg'
 image: '/img/portfolio/kostromskoyterem/card.jpg'
 year: 2020
+date: 2020-07-01
 cardtitle: Костромской Терем
 menutitle: костромской-терем.рф
 tags:

@@ -4,6 +4,7 @@ description: Создание строительного сайта для ко�
 thumb: '/img/portfolio/brusovoi/card.jpg'
 image: '/img/portfolio/brusovoi/card.jpg'
 year: 2020
+date: 2020-03-01
 cardtitle: Брусовой
 menutitle: brusovoi.ru
 tags:

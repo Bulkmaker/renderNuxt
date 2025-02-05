@@ -4,6 +4,7 @@ description: Создание сайта Домик строй, Wordpress
 thumb: '/img/portfolio/domik-stroi/card.jpg'
 image: '/img/portfolio/domik-stroi/card.jpg'
 year: 2016
+date: 2016-02-01
 cardtitle: Домик строй
 menutitle: domik-stroi.ru
 tags:

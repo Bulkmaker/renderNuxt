@@ -4,6 +4,7 @@ description: Сайт dom4sezona.ru. Компания Дом 4 сезона. С�
 thumb: '/img/portfolio/dom4sezona/card.jpg'
 image: '/img/portfolio/dom4sezona/card.jpg'
 year: 2019
+date: 2019-03-01
 cardtitle: Дом 4 сезона
 menutitle: dom4sezona.ru
 tags:

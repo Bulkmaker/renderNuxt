@@ -4,6 +4,7 @@ description: Обновление дизайна сайта, изменение 
 thumb: '/img/portfolio/galich-dom/card.jpg'
 image: '/img/portfolio/galich-dom/card.jpg'
 year: 2016
+date: 2016-01-01
 cardtitle: Галич дом
 menutitle: galich-dom.ru
 tags:

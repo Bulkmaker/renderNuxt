@@ -4,6 +4,7 @@ description: Перенос сайта stroynadache.ru. Система Modx. У�
 thumb: '/img/portfolio/stroynadache/card.jpg'
 image: '/img/portfolio/stroynadache/card.jpg'
 year: 2024
+date: 2024-06-01
 cardtitle: Строй на даче
 menutitle: stroynadache.ru
 tags:

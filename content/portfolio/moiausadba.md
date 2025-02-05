@@ -4,6 +4,7 @@ description: Сайт по уникальному дизайну, система
 thumb: '/img/portfolio/moiausadba/card.jpg'
 image: '/img/portfolio/moiausadba/card.jpg'
 year: 2019
+date: 2019-11-01
 cardtitle: Моя усадьба
 menutitle: moiausadba.ru
 tags: 
