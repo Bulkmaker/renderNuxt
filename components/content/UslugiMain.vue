@@ -76,10 +76,7 @@
                       
                     
                         <NuxtLink to="/uslugi/support/tehnical-support"   class="ucard_link">
-                          Техническая поддержка
-                        </NuxtLink>
-                        <NuxtLink to="/uslugi/support/tehnical-support" class="ucard_link"  >
-                          Полная поддержка
+                          Поддержка сайта
                         </NuxtLink>
               
                         <NuxtLink to="/uslugi/reklama" class="ucard_link"  >
