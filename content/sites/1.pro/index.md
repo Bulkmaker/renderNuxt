@@ -21,8 +21,8 @@ tags:
   - Почта вида info@site.ru
   - Адаптивная вёрстка для мобильных устройств
   - CMS ModX
-url: https://site.render-room.ru/
-menutitle: site.render-room.ru
+url: https://pro.render-room.ru/
+menutitle: pro.render-room.ru
 layout: site
 h1: Строительный сайт "Профессионал"
 ---
