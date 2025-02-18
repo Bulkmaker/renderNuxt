@@ -1,10 +1,11 @@
 <script setup>
+
     const { page } = useContent()
 </script>
 
 <template>
 
-    <div class="site-portfolio content-wrapper">
+    <div class="site-portfolio  content-wrapper container mx-auto flex-col flex-grow">
         <NuxtLink to="/uslugi" class="my-4 block no-underline"> <span >← назад к услугам</span></NuxtLink>
         <h1>{{ page.h1 ? page.h1 : page.cardtitle }}</h1>
 

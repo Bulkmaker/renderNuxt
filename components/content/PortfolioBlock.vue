@@ -25,7 +25,7 @@ defineProps({
 <style lang="sass" scoped>
 .block
   display: grid
-  grid-template-columns: 300px 1fr
+  grid-template-columns: 1fr
   position: relative
   margin-bottom: 60px
   margin-top: 30px

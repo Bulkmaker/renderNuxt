@@ -1,28 +1,28 @@
 ---
 title: Создание сайта brusograd.ru
-description: Создание сайта brusograd.ru. Система Modx. Дизайн Render room - профессионал.
+description: Создание сайта brusograd.ru. Авторский дизайн. Готовое решение на продажу.
 thumb: /img/portfolio/brusograd/card.jpg
 image: /img/portfolio/brusograd/card.jpg
-year: 2024
+year: 2025
 date: 2025-02-05
 cardtitle: СК Брусоград
 menutitle: brusograd.ru
 tags:
-  - Готовый шаблон
+  - Готовый сайт
   - 3d проекты
+  - Видео Анимация
 url: https://brusograd.ru/
 layout: sites
 favorite: false
 h1: Создание сайта СК Брусоград
+sale: true
 ---
 
-:portfolio-image{.w-full alt="brusograd.ru" image="/img/portfolio/brusograd/image2.png"}
-
-::portfolio-block{title="О компании"}
-Создали сайт для компании Брусоград. Отрисовали проекты, создали видео анимацию для главной страницы. 
+::portfolio-block{title="О проекте"}
+Мы создали сайт строительной компании Брусоград, вложив в него весь наш многолетний опыт и внимание к деталям. Это полноценное решение под ключ, где продуманы и дизайн, и функциональность, чтобы максимально эффективно представить услуги компании. Стильный визуал, удобная структура и адаптивная верстка делают сайт комфортным для пользователей, а продуманный каталог с проектами упрощает выбор. Мы гордимся этим проектом и предлагаем его к продаже – это идеальный инструмент для привлечения клиентов и роста строительного бизнеса.
 ::
 
-:portfolio-image{.w-full alt="brusograd.ru" image="/img/portfolio/brusograd/image1.jpg"}
+:portfolio-image{.w-full alt="brusograd.ru" image="/img/portfolio/brusograd/image1.png"}
 
 ::portfolio-block{title="Выполненные работы"}
 - Дизайн на основе шаблона Профессионал
@@ -42,5 +42,6 @@ h1: Создание сайта СК Брусоград
 - Формы связи
 - Доставка форм в телеграм и на почту
 - Настройка метрики
-
 ::
+
+:portfolio-image-full{.w-full alt="brusograd.ru" image="/img/portfolio/brusograd/image2.png"}

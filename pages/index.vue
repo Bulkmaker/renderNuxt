@@ -1,6 +1,6 @@
 <template>
-    <MainTop />
-    <ContentDoc />
+    <MainTop class=" content-wrapper container mx-auto flex-col flex-grow " />
+    <ContentDoc class=" content-wrapper container mx-auto flex-col flex-grow " />
 </template>
 <script lang="ts" setup>
   defineOgImageComponent('OgRender',{

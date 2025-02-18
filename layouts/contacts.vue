@@ -5,7 +5,7 @@ const {page} = useContent()
 </script>
 
 <template>
-    <div class="contacts  content-wrapper">
+    <div class="contacts  content-wrapper container mx-auto flex-col flex-grow">
         <h1>{{ page.h1 }}</h1>
         <slot/>
         <div class=" ">

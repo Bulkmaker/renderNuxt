@@ -80,14 +80,14 @@ nav
   
   &__link
     text-decoration: none
-    font-weight: 500
+    font-weight: 400
     transition: all ease .4s
     margin-right: 20px
     color: #333
     display: flex
     align-items: center
     gap: 5px
-    font-size: clamp(14px, 16px, 18px)
+    font-size: clamp(16px, 18px, 20px)
     
     &:hover
       color: var(--link-color)

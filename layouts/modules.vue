@@ -3,7 +3,7 @@ const {page} = useContent()
 </script>
 
 <template>
-    <div class="module__wrapper  content-wrapper">
+    <div class="module__wrapper   content-wrapper container mx-auto flex-col flex-grow">
         <NuxtLink to="/modules" class="my-4 block no-underline"><span>← ко всем модулям</span></NuxtLink>
 
         <slot/>

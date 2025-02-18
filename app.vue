@@ -3,7 +3,7 @@
         <Sidebar/> 
         <div class="content">
             <Header/>
-            <main class="main container mx-auto flex-col flex-grow">
+            <main class="main">
                 <NuxtLayout>
                     <NuxtPage/>
                 </NuxtLayout>

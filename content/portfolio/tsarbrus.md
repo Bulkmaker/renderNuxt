@@ -15,14 +15,17 @@ layout: sites
 favorite: false
 h1: Создание сайта СК Царь Брус
 ---
-
-:portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/tsarbrus/image2.png"}
-
-::portfolio-block{title="О компании"}
+::portfolio-block{title="О проекте"}
 Создали сайт для компании Царь Брус. Добавили проектов из нашего каталога.
 ::
 
-:portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/tsarbrus/image1.jpg"}
+
+
+:portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/tsarbrus/image2.png"}
+
+
+
+
 
 ::portfolio-block{title="Выполненные работы"}
 - Дизайн клиента на основе шаблона Профессионал
@@ -36,3 +39,5 @@ h1: Создание сайта СК Царь Брус
 - Настройка метрики
 - Настройка домена и почты
 ::
+
+:portfolio-image{.w-full alt="sk-timber.ru" image="/img/portfolio/tsarbrus/image1.jpg"}

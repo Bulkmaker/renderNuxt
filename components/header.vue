@@ -21,7 +21,7 @@
     background: #FFFFFF
     border-bottom: 1px solid rgba(211, 211, 211, 0.46)
     z-index: 10
-    padding: 0 20px 0 70px
+    padding: 0 20px 0 60px
     @screen md
         padding: 0 50px 0 100px
     &__inner
@@ -35,7 +35,9 @@
         align-items: center
         img
             max-width: 100%
-            width: 220px
+            width: 200px
+            @screen md
+              width: 220px
 </style>
 
 <script setup lang="ts">
