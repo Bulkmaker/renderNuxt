@@ -1,5 +1,5 @@
 <template>
-    <ContentDoc class=" content-wrapper container mx-auto flex-col flex-grow " />
+    <ContentDoc class=" " />
 </template>
 
 <script lang="ts" setup>

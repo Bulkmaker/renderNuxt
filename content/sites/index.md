@@ -1,6 +1,7 @@
 ---
 title: Создание строительных сайтов
 menutitle: Сайты
+layout: page
 ---
 
  

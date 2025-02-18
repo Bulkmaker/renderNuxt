@@ -1,6 +1,7 @@
 ---
 title: Услуги компании render-room.ru
 menutitle: Услуги
+layout: page
 ---
 # Услуги нашей компании
 
