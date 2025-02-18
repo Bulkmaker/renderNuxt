@@ -34,7 +34,7 @@ const {page} = useContent()
 
     </div>
   </div>
-  <div class="site-portfolio ">
+  <div class="site-portfolio  ">
 
 
     <slot/>
@@ -91,7 +91,7 @@ const {page} = useContent()
   line-height: 1.4
   display: flex
   flex-direction: column
-
+  padding: 20px
   ul
     list-style: square
 

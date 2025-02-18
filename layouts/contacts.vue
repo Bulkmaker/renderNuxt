@@ -103,7 +103,7 @@ const {page} = useContent()
     display: flex
     flex-direction: column
     padding: 30px
-    min-width: 200px
+    min-width: 150px
     border-radius: 15px
     justify-content: center
     align-items: center
@@ -117,10 +117,12 @@ const {page} = useContent()
     will-change: box-shadow
     margin-right: 20px
     text-align: center
-
+    img
+      width: 40px
+      height: 40px
     span
-        width: 60px
-        height: 60px
+        width: 50px
+        height: 50px
         margin-bottom: 10px
 
     &:hover
