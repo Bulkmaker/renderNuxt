@@ -57,8 +57,6 @@
     align-items: center
     justify-content: center
     //border-right: 1px solid rgba(211, 211, 211, 0.46)
-    @screen md
-
     &__icons
         display: flex
         align-items: center
@@ -191,7 +189,7 @@ button
         transition-delay: 0s
 
 
-@screen md
+@screen xl
     .sidebar
         bottom: 0
         width: 70px

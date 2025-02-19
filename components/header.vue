@@ -22,7 +22,7 @@
     border-bottom: 1px solid rgba(211, 211, 211, 0.46)
     z-index: 10
     padding: 0 20px 0 60px
-    @screen md
+    @screen xl
         padding: 0 50px 0 100px
     &__inner
         display: flex
