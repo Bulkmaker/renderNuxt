@@ -21,15 +21,18 @@
         <div class="big-menu__content">
             <NuxtLink to="/sites" class="big-menu__biglink" @click="toggleActive">Строительные сайты</NuxtLink>
             <br>
+          <br>
             <NuxtLink to="/modules" class="big-menu__smalllink" @click="toggleActive">Модули</NuxtLink>
             <NuxtLink to="/uslugi/support" class="big-menu__smalllink" @click="toggleActive">Поддержка</NuxtLink>
             <NuxtLink to="/uslugi/gotovyie-sajtyi" class="big-menu__smalllink" @click="toggleActive">Готовые сайты</NuxtLink>
             <NuxtLink to="/uslugi" class="big-menu__smalllink" @click="toggleActive">Услуги</NuxtLink>
             <br>
-            <NuxtLink to="/portfolio" class="big-menu__biglink" @click="toggleActive">Наши работы</NuxtLink>
+            <NuxtLink to="/portfolio" class="big-menu__biglink underline " @click="toggleActive">Наши работы</NuxtLink>
+          <br>
+          <br>
+            <NuxtLink to="https://3d.render-room.ru" class="big-menu__biglink" target="_blank" @click="toggleActive">Маркет 3D проектов</NuxtLink>
             <br>
-            <NuxtLink to="https://3d.render-room.ru" class="big-menu__biglink" target="_blank" @click="toggleActive">Готовые 3D проекты домов</NuxtLink>
-            <br>
+          <br>
             <NuxtLink to="https://3d.render-room.ru/katalog" class="big-menu__smalllink" target="_blank" @click="toggleActive">Каталог проектов</NuxtLink>
             <NuxtLink to="https://3d.render-room.ru/price" class="big-menu__smalllink" target="_blank" @click="toggleActive">Визуализация</NuxtLink>
             <NuxtLink to="https://3d.render-room.ru/dop/uluchshennaya-vizualizacziya" class="big-menu__smalllink" target="_blank" @click="toggleActive">Проект на заказ</NuxtLink>
@@ -154,9 +157,9 @@ button
         padding: 30px
 
     &__biglink
-        font-size: 30px
+        font-size: 26px
         line-height: 1.2
-        font-weight: 700
+        font-weight: 500
         line-break: strict
         text-transform: uppercase
         overflow: hidden
