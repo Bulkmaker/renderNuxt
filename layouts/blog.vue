@@ -17,8 +17,8 @@ const {page} = useContent()
 </template>
 <style scoped lang="sass">
 .blog__wrapper
-    max-width: 100%
-    width: 1000px
+    max-width: 1000px
+    width: 100%
     margin: 0 auto
 
 </style>

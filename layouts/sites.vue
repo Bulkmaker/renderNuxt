@@ -83,8 +83,8 @@ const {page} = useContent()
   margin-right: auto
 
 .site-portfolio
-  max-width: 100%
-  width: 1000px
+  max-width: 1000px
+  width: 100%
   margin-left: auto
   margin-right: auto
   font-size: 20px

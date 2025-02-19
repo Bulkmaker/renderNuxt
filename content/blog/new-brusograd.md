@@ -13,7 +13,7 @@ date: 2025-02-05
 Создали сайт строительной компании по нашему макету, использовали последние наработки и лучшие практики. Добавили телеграм формы и расчёт проекта.
 Сайт продаётся. 
 
-:portfolio-image{image="/img/portfolio/brusograd/image1.jpg" alt="brusograd.ru" class="w-full my-2"}
+:portfolio-image{image="/img/portfolio/brusograd/image1.png" alt="brusograd.ru" class="w-full my-2"}
 ::portfolio-block
 ---
 title: Выполненные работы
